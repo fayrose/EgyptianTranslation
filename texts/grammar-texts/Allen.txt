@@ -1,0 +1,521 @@
+%pa 42
+
+%li 6
+%bi Peas. B1, 20
+
+%pa 62
+
+%li 8
+%bi Peas. B1, 79
+
+%li 10
+%bi Peas. Bt 30-31
+
+%pa 63
+
+%li 4
+%bi Peas. B1, 84
+
+%pa 72
+
+%li 3
+%bi Westcar 9, 9
+
+%li 7
+%bi Peas. R 1, 1
+
+%pa 73
+
+%li 2
+%bi Peas. B2, 48-49
+
+%pa 76
+
+%li 6
+%bi Westcar 9, 8-9
+
+%li 7
+%bi Westcar 6, 25
+
+%pa 77
+
+%li 1
+%bi Peas. B1, 25
+
+%pa 93
+
+%li 2
+%bi Westcar 6, 24
+
+
+%pa 109
+
+%li 1
+%bi Peas. B1, 124
+
+%pa 110
+
+%li 3
+%bi Westcar 11, 24
+
+%pa 112
+
+%li 2
+%bi Peas. B1, 208
+
+%pa 114
+
+%li 2
+%bi Peas. Bt 25
+
+%li 4
+%bi Peas. B1, 58
+
+%pa 115
+
+%li 1
+%bi Westcar 9, 4
+
+%pa 121
+
+%li 2
+%bi Peas. R 7, 4
+
+%li 3
+%bi Peas. B1, 196
+
+%li 5
+%bi Peas. B2, 100
+
+%pa 125
+
+%li 1
+%bi Peas. B2, 77
+
+%li 2
+%bi Peas. B1, 50
+
+%li 4
+%bi Peas. R 8, 7-8
+
+%pa 131
+
+%li 4
+%bi Westcar 8, 5
+
+%pa 133
+
+%li 3
+%bi Westcar 9, 3-4
+
+%pa 135
+
+%li 4
+%bi Westcar 8, 5
+
+%pa 136
+
+%li 3
+%bi Westcar 6, 26-27, 1
+
+%pa 138
+
+%li 1
+%bi Peas. B1, 93
+
+%pa 166
+
+%li 2
+%bi Peas. B1, 65-66
+
+%li 3
+%bi Peas. R 12, 6-7
+
+%pa 168
+
+%li 3
+%bi Westcar 7, 14
+
+%pa 176
+
+%li 1
+%bi Peas. B1, 123-124
+
+%li 3
+%bi Peas. B1, 332-333
+
+%li 4
+%bi Peas. R 1, 2-3
+
+%li 5
+%bi Peas. B1, 42
+
+%pa 179
+
+%li 5
+%bi Westcar 10, 4
+
+%pa 180
+
+%li 1
+%bi Westcar 7, 1-2
+
+%pa 187
+
+%li 1
+%bi Peas. R 7, 6-7
+
+%li 2
+%bi Westcar 8, 9
+
+%li 5
+%bi Peas. B2, 133
+
+%pa 188
+
+%li 1
+%bi Peas. B1, 123
+
+%pa 190
+
+%li 1
+%bi Peas. B1, 230-231
+
+%pa 191
+
+%li 2
+%bi Westcar 13, 10-11
+
+%li 3
+%bi Peas. R 13, 5
+
+%pa 192
+
+%li 1
+%bi Peas. B1, 255
+
+%pa 193
+
+%li 1
+%bi Westcar 6, 10-11
+
+%pa 194
+
+%li 4
+%bi Peas. R 9, 5-6
+
+%pa 204
+
+%li 4
+%bi Peas. R 26, 4-5
+
+%pa 205
+
+%li 3
+%bi Westcar 8, 12
+
+%pa 206
+
+%li 2
+%bi Westcar 8, 21
+
+%pa 207
+
+%li 1
+%bi Westcar 12, 7-8
+
+%li 2
+%bi Peas. B2, 131-132
+
+%pa 208
+
+%li 2
+%bi Westcar 4, 1
+
+%pa 209
+
+%li 4
+%bi Westcar 7, 2 and 4
+
+%pa 210
+
+%li 3
+%bi Westcar 8, 12-13
+
+%pa 215
+
+%li 4
+%bi Peas. R 6, 4-5
+
+%li 5
+%bi Westcar 6, 10
+
+%pa 217
+
+%li 2
+%bi Westcar 8, 14
+
+%pa 219
+
+%li 2
+%bi Westcar 8, 3
+
+%pa 226
+
+%li 5
+%bi Westcar 8, 1
+
+%pa 227
+
+%li 4
+%bi Peas. B1, 225-226
+
+%pa 229
+
+%li 3
+%bi Westcar 8, 8
+
+%pa 231
+
+%li 3
+%bi Westcar 12, 25-26
+
+%pa 232
+
+%li 1
+%bi Peas. Bt 34-35
+
+%li 4
+%bi Peas. R 1, 7
+
+%pa 235
+
+%li 7
+%bi Peas. B2, 113-114
+
+%pa 236
+
+%li 2
+%bi Peas. B1, 356-357
+
+%li 5
+%bi Westcar 12, 3
+
+%pa 237
+
+%li 3
+%bi Westcar 5, 17
+
+%pa 239
+
+%li 5
+%bi Westcar 5, 19
+
+%pa 247
+
+%li 5
+%bi Peas. R 26, 5-6
+
+%pa 249
+
+%li 1
+%bi Peas. B1, 42-43
+
+%li 4
+%bi Westcar 2, 7
+
+%pa 253
+
+%li 4
+%bi Peas. B1, 268-269
+
+%pa 254
+
+%li 5
+%bi Westcar 4, 13
+
+%pa 256
+
+%li 3
+%bi Peas. B1, 162
+
+%pa 257
+
+%li 1
+%bi Peas. B1, 244-245
+%% NOT 245-246 as printed.
+
+%li 4
+%bi Peas. B1, 49
+
+%li 5
+%bi Peas. B1, 39-40
+
+%pa 268
+
+%li 2
+%bi Peas. B2, 98
+
+%pa 269
+
+%li 1
+%bi Peas. B1, 128-129
+
+%pa 273
+
+%li 4
+%bi Peas. B1, 271-272
+
+%pa 277
+
+%li 4
+%bi Peas. B2, 69-70
+
+%pa 280
+
+%li 1
+%bi Peas. R 26, 2
+
+%li 2
+%bi Peas. B1, 353-354
+
+%pa 288
+
+%li 2
+%bi Peas. B1, 67-68
+
+%li 3
+%bi Westcar 9, 17-18
+
+%pa 293
+
+%li 2
+%bi Westcar 11, 5-6
+
+%li 7
+%bi Westcar 10, 11-12
+
+%pa 302
+
+%li 2
+%bi Peas. R 7, 7
+
+%pa 303
+
+%li 1
+%bi Westcar 8, 17-22
+
+%pa 327
+
+%li 1
+%bi Peas. R 18, 6
+
+%pa 331
+
+%li 4
+%bi Peas. B2, 48-49
+
+%li 5
+%al jnk Dd nfrt wHm mrrt
+%tr I am one who says what is good and repeats what is loved. 
+
+%pa 332
+
+%li 4
+%bi Peas. B1, 116-117
+
+%li 8
+%bi Westcar 9, 6-7
+
+%pa 334
+
+%li 4
+%bi Peas. R 11, 1
+
+%pa 337
+
+%li 4
+%bi Westcar 12, 3
+
+%pa 340
+
+%li 4
+%bi Westcar 6, 9-10
+
+%pa 351
+
+%li 6
+%bi Peas. B1, 316
+
+%pa 354
+
+%li 5
+%bi Westcar 12, 2
+
+%pa 356
+
+%li 5
+%bi Peas. R 1, 1
+
+%pa 364
+
+%li 5
+%tr Then His Incarnation said: `As you wish to see me healthy,
+you should delay him here.'
+%bi Peas. B1, 109-110
+
+%pa 365
+
+%li 4
+%bi Westcar 5, 3-4
+
+%li 5
+%bi Westcar 10, 4
+
+%pa 370
+
+%li 1
+%bi Westcar 3, 6-8
+
+%pa 371
+
+%li 1
+%bi Westcar 9, 15
+
+%pa 372
+
+%li 1
+%tr You are the rudder of the entire land: the land sails according 
+as you command
+%bi Peas. B1, 298-299
+
+%li 2
+%bi Westcar 9, 15
+
+%pa 374
+
+%li 1
+%bi Peas. R 17, 6-7
+
+%pa 378
+
+%li 2
+%tr Then this peasant was afraid, thinking it was done in order to 
+punish him because of this speech he had said
+%bi Peas. B2, 117-118
+
+%pa 380
+
+%li 1
+%bi Peas. B1, 211
+%pa 381
+
+%li 2
+%tr You shall be having rations given to him without letting him
+know that you are the one who has given them to him.
+%bi Peas. B1, 114-115
+
+%pa 399
+
+%li 11
+%bi Peas. B1, 342-343

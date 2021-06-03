@@ -1,0 +1,178 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2018-07-11
+modified = 2018-07-12
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of the obelisk of Tuthmosis I in the
+temple of Amun in Karnak, following the transcription of Sethe (1927),
+number 38 (pp. 92-94).
+
+The transliteration throughout follows Hannig (1995).
+
+For published translations, see Breasted (1906), pp. 36-37, §§ 86-88;
+Sethe (1914), number 38 (pp. 47-48).
+
+###
+
+J.H. Breasted. <i>Ancient Records of Egypt -- Volume II</i>. The
+University of Chicago Press, 1906.
+
+R. Hannig. <i>Grosses Handwörterbuch Ägyptisch-Deutsch: die Sprache
+der Pharaonen (2800-950 v.Chr.)</i>. Verlag Philipp von Zabern, 1995.
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+<"A"> ^Hr ^kA-nxt mrj-mAat
+;
+<"A"> Horus: Mighty bull, beloved of Maat;
+
+nsw-bjtj ^aA-xpr-kA-^ra tjt-^jtm
+;
+The king of Upper and Lower Egypt: Aakheperkare, image of Aton.
+
+jr.n=f m mnw=f n jt=f ^jmn-^ra
+;
+He created it as his monument for his father Amun-Re,
+
+Hrj-tp tAwj
+;
+chief of the Two Lands,
+
+saHa.n=f txnwj wrwj r rwtj Hwt-nTr
+;
+when he erected two great obelisks in front of the temple,
+
+bnbnt m [Dam] [...]
+;
+the pyramidion of [electrum] [...]
+
+<"B"> ^Hr ^kA-nxt-n-^ra
+;
+<"B"> Horus: Mighty bull of Re;
+
+nbtj ^jTj-tAw-nbw
+;
+Two Ladies: Who seized all lands;
+
+^Hr-nbw ^Hwj-pDt-9
+;
+Gold Horus: Who smote the Nine Bows;
+
+nsw-bjtj nb tAwj ^aA-xpr-kA-^ra mrj.n-^ra
+;
+The king of Upper and Lower Egypt, lord of the Two Lands:
+Aakheperkare, beloved of Re,
+
+sDsr.n n=f nb nTrw Hb-sd
+;
+for whom the lord of the gods sanctified the Hebset festival
+
+Hr jSd Sps
+;
+at the splendid <al>jSd</al> tree;
+
+sA-^ra ^DHwtj-msjw xaj-mj-^ra
+;
+Son of Re: Tuthmosis, shining like Re,
+
+^jmn-^ra kA mwt=f mry
+;
+beloved of Amun-Re, bull of his mother,
+
+[Dj anx Dt]
+;
+[given life forever].
+
+<"C"> ^Hr ^kA-nxt mrj-mAat
+;
+<"C"> Horus: Mighty bull, beloved of Maat;
+
+nsw-bjtj nbtj
+;
+The king of Upper and Lower Egypt, Two Ladies:
+
+^xaj-m-nsrt aA-pHtj
+;
+Shining as a flame, great of strength,
+
+^aA-xpr-kA-^ra stp.n-^ra
+;
+Aakheperkare, chosen of Re;
+
+^Hr-nbw ^nfr-rnpwt sanx-jbw
+;
+Gold Horus: Perfect of years, who enlivens the hearts;
+
+sA-^ra n Xt=f ^DHwtj-msjw xaj-nfrw
+;
+Son of Re, of his body: Tuthmosis, shining in beauty.
+
+jr.n=f m mnw=f n jt=f ^jmn
+;
+He created it as his monument for his father Amun,
+
+nb ^nswt-tAwj
+;
+lord of the Thrones of the Two Lands,
+
+xntj ^jpt-swt
+;
+foremost of Karnak,
+
+jr=f Dj anx mj ^ra Dt
+;
+so that he may be given life like Re forever.
+
+<"D"> ^Hr ^mrj-^ra xaj-HDt
+;
+<"D"> Horus: Beloved of Re, who appears with the white crown;
+
+nbtj ^dwA-^jtm xaj-xaw
+;
+Two Ladies: Who praises Atum, shining of appearances;
+
+nsw-bjtj nb tAwj ^aA-xpr-kA-^ra jrj.n-^ra
+;
+The king of Upper and Lower Egypt, lord of the Two Lands:
+Aakheperkare, begotten by Re;
+
+^Hr-nbw aA-pHtj-wsr-xpS
+;
+Gold Horus: Great of strength, rich in power,
+
+wAD rnpwt m Hwt-aAt mAat
+;
+flourishing of years in the Great House of truth;
+
+sA-^ra ^DHwtj-msjw xaj-mj-^ra
+;
+Son of Re: Tuthmosis, shining like Re,
+
+nTr HqA ^jwnw
+;
+god, ruler of Heliopolis,
+
+^jmn-^ra nb ^nswt-tAwj mry
+;
+beloved of Amun-Re, lord of the Thrones of the Two Lands,
+
+Dj anx [mj ^ra Dt]
+;
+given life [like Re forever].

@@ -1,0 +1,556 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2018-07-15
+modified = 2018-11-30
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of the Abydos stela of Tuthmosis I,
+following the transcription of Sethe (1927), number 39 (pp. 94-103).
+
+The transliteration throughout follows Hannig (1995).
+
+For published translations, see Breasted (1906), pp. 37-40, §§ 90-98;
+Sethe (1914), number 39 (pp. 48-52).
+
+###
+
+J.H. Breasted. <i>Ancient Records of Egypt -- Volume II</i>. The
+University of Chicago Press, 1906.
+
+R. Hannig. <i>Grosses Handwörterbuch Ägyptisch-Deutsch: die Sprache
+der Pharaonen (2800-950 v.Chr.)</i>. Verlag Philipp von Zabern, 1995.
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+<2> [...] hrwj nn m jbw rmT
+;
+<2> [...] How pleasant is this in the hearts of the people, 
+
+anwj nn m Hrw nTrw
+;
+how beautiful is this in the sight of the gods,
+
+jr=k mnw n ^wsjr
+;
+that you are building monuments for Osiris,
+
+sDsr=k xntjw jmntjw
+;
+that you sanctify the foremost of those in the west,
+
+nTr aA n sp tpj
+;
+the great god of the primordial time,
+
+sxnt.n ^jtm st=f
+;
+whose position Atum advanced,
+
+saA.n=f xnt <3> [ms]w=f
+;
+whom he made great before <3> his [children],
+
+grg.n=f tA n jb=f
+;
+according to whose will he founded the land,
+
+bAkw n=f nsyw-bjtjw
+;
+whom the kings of Upper and Lower Egypt have served,
+
+Dr grg.tw tA pn
+;
+since this land was founded.
+
+ntk ms.n.tw=k n=f
+;
+You were born to him,
+
+jr.n=f Tw m mtt nt jb=f
+;
+he created you by the righteousness of his heart,
+
+r jrt jrt.n=f m tA
+;
+to do what he did in the land,
+
+r srwD x<4>mw nTrw
+;
+to perpetuate the shrines of the gods,
+
+[smnx] rAw-prw=sn
+;
+and [restore] their temples.
+
+ntk nbw
+;
+To you belongs gold,
+
+n=k-jmy HD
+;
+to you belongs silver,
+
+wn.n n=k ^gbb jmt=f
+;
+Geb has opened to you what is in it,
+
+rDj.n n=k ^tA-tnn jxt=f
+;
+Tatenen has given you his possession,
+
+bAk n=k xAswt nbt
+;
+all foreign lands serve you,
+
+tAw nbw Xr sxr=k
+;
+all lands are under your direction,
+
+<5> aAt nbt [arf(.tj)] xt pr=k
+;
+<5> every kind of precious stone [is contained] in your house.
+
+nn HA A m-xt=k
+;
+You have no unfulfilled wish,
+
+SA xpr
+;
+ordain and it happens,
+
+wD jr.tw
+;
+command and it will be done,
+
+mrtj kA=k pw xpr.tj=sn
+;
+what will happen is what your spirit desires.
+
+wD Hm=f n jmj-rA xtmt xrp kAt
+;
+His Majesty commanded the treasurer to direct works,
+
+m rDjt Sm <6> [...]
+;
+letting [...] go [...]
+
+[...] spd nb n smdt=f
+;
+all skilled [...] of his personnel,
+
+tpj n wnwt=f
+;
+and the best of his staff,
+
+rx tp-rd
+;
+who know the instructions,
+
+SsA m rxt.n=f
+;
+who are experienced in what they know,
+
+jwtj thh=f rDyt m-Hr=f
+;
+and who do not neglect what they were commanded,
+
+<7> [jr] mnw [n] jt=f [^wsjr]
+;
+<7> to [build] a monument for his father [Osiris],
+
+grg sSm=f n nHH
+;
+to create his statue for eternity,
+
+smnx sStAw wrt
+;
+which was embellished and kept very secret,
+
+n mAA n ptr
+;
+not seen, not beheld,
+
+nn rx Dt=f
+;
+its form unknown,
+
+jr n=f wTs nfrw
+;
+for which was created a beautiful palanquin
+
+m HD nbw xsbD Hmtj km
+;
+of silver, gold, lapis lazuli, black copper,
+
+aAt <8> nbt Spst
+;
+and every kind of precious stone.
+
+xrp.n=j n=f wdHww [aSA]
+;
+I provided him with offering tables,
+
+sxmw sSSyt mnjwt
+;
+sceptres, sistra, menits,
+
+sHptyw tnjw
+;
+censers, and bowls.
+
+aAbt=j jm
+;
+My great offerings were there,
+
+n tSj.n=sn
+;
+which didn't cease,
+
+n jr.n Abw jm
+;
+as (I) did not end them.
+
+jw grt mDH<9>.n=j n[=f nSm]t Spst
+;
+I built for [him] a splendid [Neshmet-barque]
+
+m aS mAa n tp-xtjw
+;
+of real cedar from Lebanon,
+
+HAt=s pH=s m Dam
+;
+its bow and its stern of electrum.
+
+sHb.n=s nwy
+;
+It adorned the water,
+
+r jrt nt=f jm=s
+;
+to make its voyage therein,
+
+m Hb=f n w ^pqr
+;
+at his feast in the district of Peqer.
+
+jw grt wD<10>.n Hm=j mst psDt-aAt
+;
+My Majesty ordered the creation of the Great Ennead
+
+jmt ^AbDw
+;
+that is in Abydos,
+
+Dd wa jm m rn=f
+;
+calling each of them by his name:
+
+^Xnmw nb ^Hr-wr Hrj-jb r ^AbDw
+;
+Khnum, lord of Her-wer, in Abydos,
+
+^Xnmw nb ^qbHw Hrj-jb r ^AbDw
+;
+Khnum, lord of Kebehu, in Abydos,
+
+^DHwtj sxm nTr<11>w xntj ^Hsrt
+;
+Thoth, might of the gods, foremost of Hesret,
+
+^Hr xntj ^xm
+;
+Horus foremost of Letopolis,
+
+^Hr-nD-Hr-jt=f
+;
+Harendotis,
+
+^wpj-wAwt ^Smaw
+;
+Upwawet of Upper Egypt,
+
+^wpj-wAwt ^mHw
+;
+Upwawet of Lower Egypt.
+
+sStAw sDsrw Dt=sn
+;
+Their forms were made secret and sacred,
+
+jAwt jrj m <12> Dam
+;
+the standards thereof were of <12> electrum,
+
+smnxw r jmt=sn HAt
+;
+made better than they were before,
+
+Dsr st r xprt m pt
+;
+more sacred than what is in heaven,
+
+HAp st r sxrw dwAt
+;
+more secret than the fashion of the underworld,
+
+[wAS] st r jmjw nwn
+;
+more [honoured] than those in the primordial waters.
+
+jr.n <13> Hm=j nn n jt=j ^wsjr
+;
+My Majesty did this for my father Osiris,
+
+n-aAt-n mrr=j sw r nTrw nbw
+;
+because I loved him more than all the other gods,
+
+n-mrwt mn rn=j
+;
+so that my name will endure,
+
+rwD mnw=j m pr jt=j ^wsjr
+;
+and my monuments last in the house of my father Osiris,
+
+xntj <14> jmntjw
+;
+foremost <14> of those in the west,
+
+nb ^AbDw
+;
+lord of Abydos,
+
+nHH Hna Dt
+;
+forever and ever.
+
+[sDmw jrf] Tn jtw-nTr nw rA-pr pn
+;
+[Hear,] divine fathers of this temple,
+
+wabw Xrjw-Hbt
+;
+priests, lector priests,
+
+jmjw-st-a
+;
+acolytes,
+
+wnwt <15> Hwt-nTr mj-qd=s
+;
+and the entire priesthood of the temple.
+
+Hnkw n mr
+;
+Make offering to the pyramid,
+
+drpw n abA
+;
+sacrifice to the offering-stone,
+
+smnxw mnw nw Hm=j
+;
+preserve the monuments of My Majesty,
+
+dmw rn=j
+;
+mention my name,
+
+sxAw nxbt=j
+;
+remember my titulary,
+
+jm<16>w Hknw n twt=j
+;
+give praise to my image,
+
+swASw Xntj Hm=j
+;
+honour the statue of My Majesty,
+
+jmw rn=j m ra n Hmw=Tn
+;
+put my name in the mouth of your servants,
+
+sxA=j xr msw=Tn
+;
+the memory of me among your children,
+
+Hr-ntt <17> jnk nsw mnx
+;
+as <17> I am an excellent king
+
+n jr.tw n=f
+;
+for whom one acts,
+
+wa qn
+;
+singularly brave
+
+n sxA.tw rn=f
+;
+whose name one remembers,
+
+r DAwtj jrt.n=j m tA pn
+;
+according to what I did in this land,
+
+r rx.tj Tn
+;
+as you know.
+
+nn m jwms xft-Hr=Tn
+;
+It is not in untruth before you,
+
+nn aba <18> jm
+;
+there is no exaggeration.
+
+jr.n=j mnw n nTrw
+;
+I built monuments for the gods,
+
+sDsr.n=j xmw=sn n-m-xt
+;
+I sanctified their chapels for the future,
+
+smnx.n=j rAw-pr=sn
+;
+I restored their temples,
+
+srwD.n=j wnt wAs
+;
+I perpetuated what had fallen into ruin,
+
+sn.n=j jr<19>yt Dr-bAH
+;
+I surpassed what had been done before,
+
+Dj=j rx wabw jrt=sn
+;
+I let priests know their duty,
+
+sSm.n=j xm r xmt.n=f
+;
+I led the ignorant to what he didn't know,
+
+Dj=j HAw-Hr jrt.n kjwj nsy<20>w
+;
+I gave more than what other kings did
+
+xprw Xr-HAt
+;
+who had been before.
+
+nTrw Xr rSwt
+;
+The gods are joyful
+
+m hAw=j
+;
+near me,
+
+rAw-pr=sn m Hb
+;
+their temples are celebrating.
+
+jr.n=j tASw tA-mrj
+;
+I established the borders of Egypt
+
+r Snnt jtn
+;
+to what the sun revolves around.
+
+Dj<21>=j nxt wnw Xr Hryt
+;
+I make strong who were in fear,
+
+dr=j Dwt Hr=s
+;
+I repel the evil from them.
+
+Dj=j wn ^kmt m Hrt-tp
+;
+I let Egypt be chief,
+
+tA nb m mrt=s
+;
+every land being its subject,
+
+m jr wa Hs n ^jmn
+;
+as does one singularly beloved of Amun,
+
+<22> sA-^ra n Xt=f
+;
+<22> son of Re, of his body,
+
+mr=f
+;
+his beloved
+
+^DHwtj-msjw xaj-mj-^ra
+;
+Tuthmosis, shining like Re,
+
+beloved of
+
+^wsjr xntjw jmntjw
+;
+Osiris foremost of those in the west,
+
+nTr aA
+;
+great god,
+
+nb ^AbDw
+;
+lord of Abydos,
+
+HqA Dt
+;
+ruler of eternity,
+
+mry
+;
+
+Dj anx Dd wAs snb
+;
+given life, stability, dominion and health,
+
+xa m nsw-bjtj
+;
+who appeared as king of Upper and Lower Egypt,
+
+Hr st-^Hr nt anxw
+;
+on the Horus-throne of the living,
+
+Aw-jb=f Hna kA=f
+;
+his heart being glad with his spirit,
+
+mj ^ra Dt
+;
+like Re forever.

@@ -1,0 +1,63 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2018-07-10
+modified = 2018-07-10
+version =
+scheme =
+language = eng
+upload =
+email =
+password =
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of a stone naos of Amenmose,
+following the transcription of Sethe (1927), number 36
+(p. 91).
+
+For published translations, see Sethe (1914), number 36 (p. 46).
+
+###
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+<"A"> rnpt-sp 4 xr Hm n
+;
+<"A"> Year 4 under the majesty of
+
+nsw-bjtj [nb tAwj] ^aA-xpr-kA-^ra
+;
+The king of Upper and Lower Egypt, [lord of the Two Lands]: Aakheperkare;
+
+sA-^ra n Xt=f ^DHwtj-msjw
+;
+Son of Re, of his body: Tuthmosis,
+
+^Hr-m-Axt mry
+;
+beloved of Harmachis,
+
+Dj anx mj ^ra Dt
+;
+given life like Re forever.
+
+<"B"> prt pw jr.n sA-nsw wr jmj-rA mSa wr n jt=f
+;
+<"B"> The oldest prince came out, the supreme commander of this father,
+
+^jmn-msjw anx(.w) Dt
+;
+Amenmose (may he live forever!),
+
+r swtwt Hr sDA-Hr [m stt]
+;
+to walk about, enjoying [shooting].

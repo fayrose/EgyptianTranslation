@@ -1,0 +1,99 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2016-09-06
+modified = 
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation for the stela of Ity and Iuri. British
+Museum EA586.
+
+For a published translation, see Collier and Manley (1998), p. 170.
+
+###
+
+M. Collier and B. Manley. <i>How to read Egyptian hieroglyphs</i>.
+British Museum Press, 1998.
+
+###
+
+<1> rnpt-sp 14 xr Hm n
+;
+<1> Year 14 under the majesty of
+
+nsw-bjtj ^xpr-kA-ra anx(.w) Dt
+;
+the king of Upper and Lower Egypt Kheperkare, may he live forever.
+
+jmAx jt-nTr ^jty Dd=f
+;
+The revered, the god's father, Ity says:
+
+<2> jw wHm n(=j) Hst xr nsw
+;
+<2> 'I was bestowed another favour of the king,
+
+saA jb(=j) r jtw xprw r-HAt=j
+;
+and my heart was advanced more than the forefathers before me.
+
+jw <3> Ts.n n=j Hm=f xtm aA m Hsmn wab
+;
+His Majesty put a great seal on me of pure amethyst,
+
+mj Sps nsw nb
+;
+just as any royal nobleman,
+
+Aryt=j <4> m hbnj swab.tj m Dam
+;
+and my staff <4> was of ebony, decorated with electrum.'
+
+jmAx jt-nTr ^jty
+;
+The revered, the god's father, Ity.
+
+<5> Hmt=f mrt=f ^jwrj
+;
+<5> His beloved wife Iuri.
+
+<6> sA=f ^jntf
+;
+<6> His son Intef.
+
+<7> sA=f ^jmn-m-HAt
+;
+<7> His son Amenemhet.
+
+<8> jmAx jt-nTr mry nb=f mAa
+;
+<8> The revered, the god's father, truly beloved of his lord,
+
+Hrj-sStA <9> n ^jmn-^ra
+;
+initiated <9> of Amun-Re,
+
+m st=f nb
+;
+in his every place.
+
+^jty <10> ms.n ^sAt-sbk
+;
+Ity, <10> born of Satsobek.
+
+<11> sAt=f ^sAt-sbk
+;
+<11> His daughter Satsobek.
+
+<12> sAt=f ^sAt-wsrt
+;
+<12> His daughter Satwosret.

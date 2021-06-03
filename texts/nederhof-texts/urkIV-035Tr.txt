@@ -1,0 +1,43 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2018-07-10
+modified = 2018-07-10
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of Aakheperka, weapon-bearer of
+Tuthmosis I, following the transcription of Sethe (1927), number 35
+(p. 90).
+
+For published translations, see Sethe (1914), number 35 (p. 46).
+
+###
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+^wsjr TAy-xaw n ^aA-xpr-kA-^ra
+;
+Osiris, weapon-bearer of Aakheperkare,
+
+^aA-xpr-kA mAa-xrw
+;
+Aakheperka, justified,
+
+jmAx xr nTr aA
+;
+revered with the great god.

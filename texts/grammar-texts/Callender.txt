@@ -1,0 +1,26 @@
+%pa 40
+
+%li 3
+%al rd(y): wi Hm.f r sXA n(y) tmA Hs(y): wi Hm.f r aAt wrt
+%tr His Majesty appointed me scribe of the cadaster,
+and His Majesty showed me great favor.
+
+%pa 89
+
+%li 2
+%al Sd(y):n.t(w).f n.i rd(y):n.i wi Hr Xt.i
+%tr When it was read to me, I placed myself on my stomach...
+
+%pa 95
+
+%li 2
+%al sqdd* tA xft wjD.*.k
+%tr [You are the rudder of the entire land,]
+and how Egypt sails depends on what you command.
+
+%pa 111
+
+%li 1
+%al iw gm(y)=tw.s m-a Hjmwt Hr bnwt
+%tr [Eloquence is more hidden than the emerald,]
+although it is found with slave-girls at the mill-stones.

@@ -1,0 +1,63 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2018-07-10
+modified = 2018-07-11
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of a dedication of Tuthmosis I, in the
+temple of Amun in Karnak, following the transcription of Sethe (1927),
+number 37 (p. 92).
+
+For published translations, see Sethe (1914), number 37 (p. 46).
+
+###
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+[anx nTr nfr nb] tAwj nb jr jxt
+;
+[Live the good god, lord] of the Two Lands, lord of rituals,
+
+nsw-bjtj ^aA-xpr-kA-^ra
+;
+The king of Upper and Lower Egypt: Aakheperkare;
+
+sA-^ra n Xt=f ^DHwtj-msjw xaj-mj-^ra
+;
+Son of Re, of his body: Tuthmosis, shining like Re.
+
+jr.n=f m mnw=f n jt=f ^jmn-^ra
+;
+He created it as his monument for his father Amun-Re,
+
+Hrj-tp tAwj
+;
+chief of the Two Lands.
+
+jr.tw n=f jwnyt Spst
+;
+A magnificent hall was built for him,
+
+sHbt tAwj m nfrw=s
+;
+which adorns the Two Lands through its beauty,
+
+jr=f Dj anx Dt
+;
+so that he may be given life forever.

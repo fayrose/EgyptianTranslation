@@ -1,0 +1,105 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2018-12-01
+modified = 2018-12-02
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of a fragment from Deir el-Bahari
+about the elephant hunt of Tuthmosis I in Niya, following the
+transcription of Sethe (1927), number 40 (pp. 103-105).
+
+The transliteration throughout follows Hannig (1995).
+
+For published translations, see Breasted (1906), p. 51, § 125; Sethe
+(1914), number 40 (pp. 52-53).
+
+###
+
+J.H. Breasted. <i>Ancient Records of Egypt -- Volume II</i>. The
+University of Chicago Press, 1906.
+
+R. Hannig. <i>Grosses Handwörterbuch Ägyptisch-Deutsch: die Sprache
+der Pharaonen (2800-950 v.Chr.)</i>. Verlag Philipp von Zabern, 1995.
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+<1> bAw nsw ^aA-xpr-[kA-]^ra [mAa-xrw
+;
+<1> The might of king Aakheperkare, [justified,
+
+jn.n=f Abw jpn
+;
+has brought these elephant tusks
+
+m nxt]<2>w[=f Hr xAswt rswt mHtwt
+;
+from his] victories [in the southern and northern lands.
+
+jsT Hm=f Ds=f bHs.n=f ??? n] <3> Abw [m xAst nt ^nhrn
+;
+His Majesty himself hunted ???] <3> elephants [in the land of
+Naharina,
+
+jw=f Hr] <4> Htr[=f
+;
+while he was on <4> his] chariot,
+
+m-xt wDA Hm=f r sxrt ^rTnw] <5> Hrt
+;
+[after His Majesty proceeded to overthrow] Upper [Retjenu
+
+m [wDyt=f ??? nt nxt
+;
+on [his ???-th victorious campaign.
+
+spr Hm=f r xAst] <6> nt ^njj
+;
+His Majesty reached the land] <6> of Niya
+
+[gm.n=f nn Abw jm
+;
+[and found these elephants there.
+
+n sp xpr mjtt n] <7> nsyw [tpjw-a
+;
+Such has never happened to former] kings.
+
+jsT jr nn Abw
+;
+[Now, these elephant tusks
+
+jn.n] <8> Hm=f m [xAst Tn
+;
+that] His Majesty [brought] from [this land,
+
+rDj.n=f st r pr jt ^jmn
+;
+he gave them to the house of his father Amun,
+
+nb ^nswt-tAwj
+;
+lord of the Thrones of the Two Lands,
+
+m-xt] <9> jw=f m [wsr m nxt m mAa-xrw
+;
+after] he returned in [strength, in victory and in triumph,
+
+sxr.n=f xftjw=f]
+;
+having overthrown his enemies.]

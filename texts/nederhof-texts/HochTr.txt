@@ -1,0 +1,1256 @@
+creator = Lauren Fay Rosenberg
+name = FayRose
+labelname = Lfr
+created = 2019-12-12
+modified = 2019-12-12
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Select sentences from Hoch's Middle Egyptian grammar.
+
+###
+
+J.E. Hoch. <i>Middle Egyptian Grammar</i>.
+Benben Publications, Mississauga, 1997.
+
+###
+
+jw Dd s m pr
+;
+The man speaks in the house.
+
+jw s m pr
+;
+The man is in the house.
+
+n ky s
+;
+to another man
+
+jw ra m ky bw
+;
+Ra is in another place.
+
+jw kt xt jm
+;
+Another thing is there.
+
+jw ra Hna s pn
+;
+Ra is with this man.
+
+jw Dd s n ky
+;
+A man speaks to another.
+
+jw Dd ra r xt tn
+;
+Ra speaks concerning that thing.
+
+jw Dd s m bw pn
+;
+The man speaks in this place.
+
+[...] s m ky bw
+;
+[...] the man being in another place
+
+jw s m ky bw
+;
+The man is in another place.
+
+jw Dd s n ra
+;
+The man speaks to Ra.
+
+jw Dd sS pn n st tn
+;
+This scribe speaks to that woman.
+
+jw ky m pr Hna st
+;
+Another is in the house with the woman.
+
+mk sDm sS sxr pn
+;
+See, the scribe is listening to this advice.
+
+jw rwj s pn r njwt tn
+;
+That man is getting away from this city.
+
+mk ra m pt
+;
+Look, Ra is in the heavens.
+
+jw Dd sAt xt tn n sA
+;
+The daughter says that thing to the son.
+
+mk dpt Hr mw wbn ra m Axt
+;
+See, the boat is in the water as the sun shines forth in the horizon.
+
+jw dpt m jtrw
+;
+The boat is on the Nile.
+
+jw sDm s ky sxr m njwt
+;
+The man listens to another plan in the city.
+
+jw rwj xrd pr nb m njwt
+;
+The child departs the house when the lord is in the city.
+
+jw sDm xrd n st
+;
+The child obeys the woman
+
+jw m dpt wbn ra m Axt
+;
+The man is in the boat while Ra shines on the horizon.
+
+tAwj
+;
+the two lands
+
+anxwj
+;
+ears
+
+Xrdw
+;
+childhood
+
+dpt nfrt
+;
+a good boat
+
+dpwt nfrwt
+;
+good boats
+
+sA nfrt
+;
+a good son
+
+prw nfrw
+;
+fine houses
+
+pr n sS
+;
+the house of the scribe
+
+dpt nt wab
+;
+the boat of the wab-priest
+
+Xrdw nw jmj-r
+;
+the children of the steward
+
+awt nt pr
+;
+the rooms of the house
+
+jt=f wab n pr ptH
+;
+his father, a wab-priest of the Temple of Ptah
+
+jmn nTr aA
+;
+Amun, the great god
+
+nHm nDs
+;
+savior of the poor
+
+pr=j
+;
+my house
+
+sAt=f
+;
+his daughter
+
+sAw=s
+;
+her sons
+
+Xrd=sn nfr
+;
+their good child
+
+awj=sj
+;
+her arms
+
+spt=kj
+;
+your lips
+
+jrtj=fj
+;
+his eyes
+
+jw sDm=f
+;
+He listens.
+
+jw sDm sS
+;
+The scribe listens.
+
+jw sAt=j m pr
+;
+My daughter is in the house.
+
+jw=s m pr
+;
+She is in the house.
+
+jw=f m dpt
+;
+He is in the boat.
+
+jw sA=j m sS.
+;
+My son is a scribe.
+
+jmn m Hmw=j
+;
+with Amun is my steering-oar
+
+jw Dd.n=sn
+;
+They said
+
+jw mr.n sS
+;
+The scribe loved.
+
+jw mA.n=T
+;
+You saw.
+
+jw sDm.n=f
+;
+He hears.
+
+mk sDm=f
+;
+See, he hears.
+
+jw sDm.tw r=f
+;
+His words are heard.
+
+jw mAA.tw=f jn s nb
+;
+He is seen by everyone.
+
+jw DAj.tw=s
+;
+She is ferried across.
+
+jw mA.w=f jn Hr nb
+;
+He was seen by everyone.
+
+jw rdw n=j Hmw Hmwt
+;
+I was given male and female servants.
+
+jw DAj.n=j rd(.w) n=j dpt
+;
+I crossed, a boat having been given to me.
+
+TAtj jmn-Htp sA mnTw-nxt Dd=f
+;
+The vizier Amun-hotep, son of Montu-nakhte says
+
+jw rx.n=j nDs Hmsj=f m Dd-snfrw
+;
+I have learned of a commoner who lives in Djed-Snofru.
+
+jw gm.n=j sxtj awA(.w) Hnw=f
+;
+I have found a peasant whose property has been stolen.
+
+jw mAA=Tn sj
+;
+You see her.
+
+jw mA.n sw sAt=f
+;
+His daughter saw him.
+
+mk sw Hr wAt
+;
+There he is on the road.
+
+mk sj
+;
+Here she is.
+
+sxr nfr
+;
+a good plan
+
+nfr sxr
+;
+The plan is good.
+
+nfrt
+;
+something good
+
+xt nbt nfrt
+;
+all sorts of fine things
+
+dpt=j tn nfrt
+;
+this fine boat of mine
+
+sxr pn bjn
+;
+this bad plan
+
+aA dpt tn
+;
+This boat is large.
+
+aA sj
+;
+It is large.
+
+nfr pr n TAtj
+;
+The vizier's house was nice.
+
+nfr sw
+;
+It was nice.
+
+nfrwj sj
+;
+How good she is!
+
+aAwj pHtj n jmn
+;
+How great is the might of Amun!
+
+bjnwj n=j
+;
+How bad things are for me!
+
+aSA n=f m mnmnt=f
+;
+He became rich in cattle.
+
+nfrwj n pr nsw
+;
+How good it is for the palace!
+
+nfr n=k aA Hna=j
+;
+It will go well for you here with me.
+
+nfr Hr
+;
+fair of face
+
+bnr mrwt
+;
+sweet with regard to love
+
+qA sA
+;
+arrogant
+
+qA xrw
+;
+noisy
+
+Aw jb
+;
+joyous
+
+Aw Drt
+;
+generous
+
+s bnr mrwt
+;
+a loveable man
+
+aA sA=j r sA n sS pn
+;
+My son is bigger than the son of this scribe.
+
+nfr st r xt nbt
+;
+It was finer than anything.
+
+mk Hnqt bnrt r dpt nt bjt
+;
+Here is a beer that is sweeter than the taste of honey.
+
+jw mr.n=f Tsm r sAt=f
+;
+He loved the dog more than his daughter.
+
+jmj-r pr wr
+;
+high steward
+
+nb=j
+;
+my lord
+
+jw Dd sw Hm-nTr n sS
+;
+The priest says it for the scribe.
+
+jw Dd Hm-nTr r pn n sS
+;
+The priest says this spell for the scribe.
+
+jw Dd.n=f Hm-nTr r pn
+;
+The priest says the spell for him.
+
+jw Dd=f n=f sw
+;
+He says it for him.
+
+sS nsw
+;
+royal scribe
+
+ntf jt=s
+;
+He is her father.
+
+ntsn nbw pt
+;
+They are the lords of heaven.
+
+jw=k m pr
+;
+You are in the house.
+
+mk Tw m pr
+;
+Look, you are in the house.
+
+jnk nfr
+;
+I am one who was good.
+
+jnk jqr
+;
+I am one who is worthy.
+
+mnmnt aSAt r jp
+;
+cattle too numerous to count
+
+xft mAA
+;
+when seen
+
+m prt Hm-nTr
+;
+at the coming forth of the Hm-nTr priest
+
+anx m wHm
+;
+living again
+
+m-xt jrt=s
+;
+after making it
+
+r mAA Hr n nb=j
+;
+in order to see the face of my lord
+
+r mAA=f
+;
+in order to see it
+
+m-xt gmt=f jn TAtj
+;
+after the vizier's finding him
+
+m prt=s m hrw r mAA pr=s
+;
+at her going out into the daylight in order to see her house
+
+xft gmt jt=f sw
+;
+when his father found him
+
+xft gmt=f sw
+;
+when he found him
+
+jw mA.n=f prt wxt
+;
+He saw the emergence of the darkness.
+
+jjt sA nsw m tA nTr
+;
+the return of the prince from god's land
+
+jjt m Htp jn sA nsw
+;
+the return in safety by the prince
+
+wDA Hm=f Hr wrryt=f nt Damw
+;
+Then His Majesty proceeed upon his chariot of electrum.
+
+jw jt=Tn Hr wnm t
+;
+Your father is eating bread.
+
+mk sw Hr wnm=f
+;
+Look, he is eating it.
+
+mk sw m jjt
+;
+Look, he is arriving.
+
+jw mA.n=f sj m jjt
+;
+He saw her coming.
+
+jw gmH.n=f sw m hAt r mryt
+;
+He spotted him going down to the shore.
+
+jw mA.n=f prt wxt ra Hr aq
+;
+He saw the emergence of the darkness as the sun was setting.
+
+Da Hr Hwyt
+;
+wind storms in addition to rain
+
+rmTw Hna mnmnt
+;
+people along with cattle
+
+jw=f Hr wnm t Hna swr Hnqt
+;
+He has been eating bread and drinking beer.
+
+j anxw tpjw tA
+;
+O you living beings upon the earth
+
+pA Xrdw 3
+;
+these 3 children
+
+dpt 3 tn
+;
+these three boats
+
+tA t 100
+;
+these 100 loaves
+
+wAt=f wat
+;
+one side of it
+
+nTr wa
+;
+the unique god
+
+wa n hrw
+;
+one day
+
+wa m Xrdw
+;
+one of the children
+
+wa jm=Tn
+;
+one of you
+
+wa nb
+;
+everyone
+
+m sp tpj
+;
+on the first occasion
+
+Hmt=f tpt
+;
+his first wife
+
+Hm-nTr tpj
+;
+first Hm-nTr priest
+
+5-nw sp
+;
+the 5th time
+
+m 2-nwt=f st
+;
+in his 2nd position
+
+rnpt 3-nwt
+;
+the 3rd year
+
+sbA 4-nw
+the 4th door
+
+wnwt mHt 12 nt hrw
+;
+the 12th hour of the day
+
+sxA.tw=t
+;
+that you be remembered
+
+wn=k m pr=k Hna Hmt=k Xrdw=k
+;
+May you be in your home with your wife and children.
+
+jw pH.n=f pr=f wn=f Hna snw=f
+;
+He reached his home in order that he could be with his brothers.
+
+dj=j sDm=k mjtt jry
+;
+Let me tell you something like it.
+
+jw rdj.n=f wj m jmj-r kAwt n mrwt qd=j n=f mnw wr(.w)
+;
+He appointed me as chief of construction in order that I might build great monuments for him.
+
+mk rdj.n tw Hm=f m jmj-r pr wr
+;
+Look, His Majesty has appointed you as the chief steward.
+
+jw rdj(.w)=f r sS nsw
+;
+He was appointed as a royal scribe.
+
+jw Dd.n=f n=j nn
+;
+He told me this.
+
+hrw pf
+;
+that day
+
+xAst tf
+;
+that foreign land
+
+nf n xftjw
+;
+those enemies
+
+pA pr
+;
+this house
+
+tA Hwt-nTr
+;
+this temple
+
+nA n Hmwt
+;
+these women
+
+bjnwj n s nb hrw pf n snD
+;
+How bad it will be for every man on that day of fear!
+
+m tA pn r Dr=f
+;
+in this land in its entirety
+
+jw sanx.n=f njwt=j r Dr=s
+;
+I kept my city alive in its entirety.
+
+Hwt=f tn mj qd=s
+;
+that entire estate of his
+
+r Aw
+;
+to its entirety
+
+wD.jn Hm=f r nn smAw r Aw=sn
+;
+Then His Majesty proclaimed concerning these wild bulls in their entirety
+
+jw=f Hr prt
+;
+He is going out.
+
+jw=f pr(.w)
+;
+He has gone out.
+
+jw=f aHa(.w) Hr wAt
+;
+He was standing on the road.
+
+jw pH.n=f wj aHa.kwj Hr wAt
+;
+He reached me as I was standing on the road.
+
+ntj Hna=f
+;
+the one who is with him
+
+ntt m-bAH=f
+;
+she who is in his presence
+
+pr=f ntj m njwt Hna DAtt=f ntt m sxt
+;
+his house which is in the city along with his estate in the country
+
+st tn ntt sn=s m sS
+;
+that woman whose brother is a scribe
+
+bw ntj=f jm
+;
+the place where he is
+
+bw ntj=k jm
+;
+the place where you are
+
+nn ntt nn st jm=f
+;
+There is nother that is not in it.
+
+ntt nbt
+;
+everything that is
+
+pr=j Hna ntt nbt jm=f
+;
+my house and everything that is in it
+
+sA sDm(.w)
+;
+a son that listens
+
+Dd mAat
+;
+speaker of truth
+
+s jr sw
+;
+the man who made it
+
+nTr qd bA=j
+;
+the god who formed my ba
+
+jr mAat
+;
+the one who did justice
+
+st Ddt Hr=s
+;
+the woman who spoke about it
+
+bw jrw xrw jm
+;
+the place where the sound was made
+
+wAt Smt Hr=s
+;
+the road that is walked upon
+
+jr.tj=sj
+;
+she who will make
+
+mAA.tj=fj
+;
+who will see
+
+jw.tj=sn
+;
+who will come
+
+rdj.tj=fj
+;
+he who will give
+
+wnn.tj=sn
+;
+those who will be
+
+n-sw-mnTw
+;
+he who belongs to Montu
+
+pAy=f jt tAy=f mwt Hna nAy=f snwt nbwt
+;
+his father, his mother, together with all his sisters
+
+Smt pw jr(.w).n=f
+;
+And so he went.
+
+jr gmm=k
+;
+if how you find it is
+
+jw n mrt jrt=f
+;
+His eye had not yet been afflicted.
+
+st rxt.n=j
+;
+a woman that I know
+
+r-pr qd(.w).n Hm=f
+;
+the temple that His Majesty built
+
+sDmw n=f sDmw
+;
+one to whom the listeners listen
+
+Ddwt.n=f
+;
+the things that he said
+
+jmj=k jrw
+;
+You should not do
+
+jwtj n=f
+;
+one who has nothing
+
+jwtj sw
+;
+he who is nothing
+
+ntt jwtt
+;
+absolutely everything
+
+jsT rf
+;
+now
+
+xr m-xt
+;
+now afterwards
+
+wa m nn hrw
+;
+one of those days
+
+mXr
+;
+low-lying land
+
+mxtmt
+;
+sealed chest
+
+st nTryt
+;
+divine state
+
+st swab
+;
+purity
+
+st skA
+;
+ploughing
+
+st StAw
+;
+mysteries
+
+js HAq
+;
+easy prey
+
+jw=f aA=f
+;
+a man on the rise
+
+hA=j jnj.tw n=j
+;
+a free for all
+
+Htp dj nsw
+;
+an offering the king makes
+
+prt-xrw
+;
+invocation offerings
+
+bw sDm.n wrd-jb sHbA wt=sn
+;
+but the weary of heart does not hear their cries
+
+bw jy jm
+;
+There is no one who has returned from there.
+
+Smsw jb=k wnn.kwj
+;
+Follow your heart as long as you live.
+
+jw sDm njwt tn Dd nb
+;
+This city listens when the lord speaks.
+
+mk dpt Hr tA
+;
+Look, the boat is on the ground.
+
+jw wbn ra m hrw
+;
+The sun shines in the daytime.
+
+jw sDm ky sS sxr pn
+;
+Another scribe hears this plan.
+
+jw pr m njwt
+;
+The house is in the city.
+
+jw sDm st tn n sS
+;
+This woman listens to the scribe.
+
+mk xrd m pr Hna st
+;
+Look, the child is in the house with the woman.
+
+jw Axt m ky tA
+;
+The horizon is in another land.
+
+mk sAt nt jmj-r pr Hr aA n bAkt=s
+;
+Look, the daughter of the overseer of the house is upon the donkey of her servant.
+
+jw s m rSwt mAA=f sAt=f nfrt m pr=f
+;
+The man is in a state of joy upon seeing his fair daughter in his house.
+
+jw DAj ra pt m wjA=f aA
+;
+Ra crosses the heavens in his great sacred barque.
+
+jw hAb.n jt sA=f r ky bw mAA=f s pn bjn r r n pr=f
+;
+The father sent his son to another place when he saw that bad man at the entrance of his house.
+
+jw nb tAwj m rSwt Hr kAt tn aAt
+;
+The lord of the two lands was in a state of joy on account of this great construction project.
+
+jw TAtj m rSwt mAA=f Hr nfr n mwt=f
+;
+The vizier was in a state of joy when he saw the beautiful face of his mother.
+
+mk mwt nt bAk=k m pr=s nDs Xrdw=s Hna=s
+;
+Look, the mother of your servant is in her little house when her children are with her.
+
+jw=T m bAkt=j
+;
+You are my servant.
+
+jw hAb.n nb=n bAk=f r kt njwt Hr kAt tn
+;
+Our lord sent his servant to another city on account of this construction project.
+
+jw dpt=f nfrt m jtrw
+;
+His fine boat is in the river.
+
+jw mAA jmj-r sAt nt TAtj jm=s
+;
+The steward sees the daughter of the vizier on it.
+
+jw Dd n sAt n jt=s mAA=s bAkt Hr aA=f
+;
+The daughter spoke to her father when she saw the sevant upon his donkey.
+
+jw awj n sS pn m mw rdwj=f Hr tA
+;
+This scribe's hands are in the water, but his feet are on the ground.
+
+jw mAA nbt pt Axt ra nb jw=s m wjA=s
+;
+The lady of the heavens sees the horizon every day as she is in her sacred bark.
+
+jw DAj.n hAb sS
+;
+We cross over when the scribe sends.
+
+jw bAk=k m rSwt Hr r=k
+;
+Your servant is in a state of joy on account of your words.
+
+jw=k m jt n njwt tn
+;
+You are a father to this town.
+
+jw DAj=f r njwt tn sAt=f Hna=f
+;
+He crosses over to this city, his daughter with him.
+
+jw nbt tA m mwt n Hr nb
+;
+The lady of the land is a mother to everyone.
+
+jw bAkt nt wab=s sy m S Hna sAwt=f nbwt
+;
+The servant of this wab-priest bathes herself in the pool with all his daughters.
+
+bnrwy dpt nt bjt
+;
+How sweet is the taste of this honey.
+
+nfr sy r xt nbt m tA pn
+;
+It is finer than anything in this land.
+
+jw nHm Hm=f jn pHtj=f aA
+;
+His majesty was saved by his great strength.
+
+nfr sA sDm=f n jt=f jw=f m Xrd
+;
+The son who listens to his father is good when he is a child.
+
+nfrwj n=f sxr pn m jb=f ra nb
+;
+How well it goes for him with this advice in his heart every day!
+
+jw rdj.n=s t n nDs gmj.n=s sw Hr wAt nt njwt tn
+;
+She gave bread to the poor man after she found him on the street of this city.
+
+jw=j m Hm-nTr xm=f dpt nt Dw
+;
+I am a Hm-nTr priest who doesn't know the taste of evil.
+
+jw dj.tw.n=k Hmw aAw pHtj Hna Hmwt nfrwt jb
+;
+You are given slaves of great strength and kind-hearted slaves.
+
+jw jrj.n n=j Hm=f xt nbt nfrt rx.n=f wj m jmj-r kAwt jqr r jmj-r kAwt nb m tA pn
+;
+His majesty did all sorts of fine things for me, because he had known me as an overseer of construction projects, who is better than all the overseers of construction projects in this land.
+
+aAwj pr=T pn
+;
+How large is this house of yours!
+
+aSA sw m xt nbt nfrt
+;
+It is rich in all kinds of fine things.
+
+jw gmj(.w) nDs Dd=f m jb mAa
+;
+The poor man who spoke with his true heart was found.
+
+nfrwj pr=k pn
+;
+How fine is this house of yours!
+
+mk jm=f Hr=j mj pt
+;
+Here it is in my sight like heaven.
+
+jw sxA s xt bjnt xm=f nfrt jm=s
+;
+A man remembers a bad thing, but does not know the good therein.
+
+mT Tn Hna=j m Hmt 
+;
+Look, you are with me as a servant.
+
+bjnt sy r sAt=s
+;
+She is meaner than her daughter.
+
+mk Dw Hr wAt nbt
+;
+Look, misfortune is on every side.
+
+jw gm(.w).n=n Hr wAt jn Hm n nb=n nfr hAb.n=f m pr-nsw
+;
+We were found on the road by a servant of our good lord who had been sent from the palace.
+
+jw s nb m rSwt sDm=sn sw
+;
+Everyone is in joy when they hear it.
+
+mk st Hmsj=s m njwt tn
+;
+Here is a woman who lives in this city.
+
+jqrwj sxr=k pn Hr jb=j nb=j
+;
+How excellent is this plan in my opinion, my lord.
+
+jw mr jt=j t r bjt
+;
+My father likes bread more than honey.
+
+jw Xrt nbt nt r-pr pn m st jrj wD n Hm-nTr sjpt st
+;
+All of the possessions of the temple are in their proper places when the priest commanded its inspection.
+
+jw wD.n Hm=f qd r-pr pn m mAwt m-xt gmt=f sw m wAs
+;
+His Majesty ordered the rebuilding of this temple again after his finding it in ruins.
+
+jjt Hmf r smA xftjw nw kAS Xst
+;
+His Majesty arriving to kill the enemies of the vile Kush
+
+ntf nTr aA
+;
+He is the great god.
+
+jw rdw.n=f XAswt nbwt Xr rdwy=kj r rdjt rx pHtj=f aA
+;
+He placed all of the foreign lands under your two feet to grant knowledge of his great strength.
+
+jnk bnr mrwt Hr jb n nb=f Aw Drt n rmt nb n njwt=f
+;
+I am sweet of love in the opinion of his lord, who is generous to all of the people of his town.
+
+jw Atp.n sw bAk n nb=f wD.n=f jrjt st n=f
+;
+The servant loaded it for his lord when he commanded his doing it.
+
+jw hAbw n=f sA=f r Dd n=f xt tn
+;
+His son was sent to him to say this thing to him.
+
+jw Dd.n=f n=f st m-xt Hmst Hr st=f aAt
+;
+He said it to him after sitting upon his great throne.
+
+jwt m Htp jn xAstjw Xr xt nbt nfrt
+;
+Arriving safely by foreigners carrying all kinds of fine things.
+
+mk Tw m s rx.n=f Axt.n=f
+;
+Look you are a man who learned something beneficial.
+
+jnk sA=f
+;
+I am his son.
+
+jnk nsw aA pHtj
+;
+I am the king, great of strength.
+
+jnk Sw SAw
+;
+I am free of fate.
+
+ntf sA wsjr
+;
+He is the son of Osiris.
+
+ntk wab a
+;
+You are pure of habit.
+
+ntk ra nb pt
+;
+You are Ra, lord of the heavens.
+
+ntk Hmw n tA r Dr=f
+;
+You are the steering oar of the land in its entirety.
+
+jw jj.n=j Hr Sns=f
+;
+I returned, following him.
+
+rdjt=j wAt n rdwy jm xd
+;
+My giving the road to my feet going north
+
+jw mAA=f wj Hr jrjt wp=k
+;
+He sees me as you are doing when you open.
+
+jw wrS ns jm Hr swr
+;
+She spent the day there while drinking.
+
+rdjt=f sw jrj-pat hAtj-a
+;
+His placing him in the position of hereditary nobleman, prince.
+
+aHa.n mH.n wa m nA n aA r=f m bAt nt SmAw
+;
+It arose that one of these donkeys filled his mouth with a wisp of barley.
+
+aHa.n rdj.n=s jnj.tw n=f pds mH m Hbsw
+;
+Then, she caused to be brought to him a box filled of garmants.
+
+mk wj Hr spr n=k n sDm.n=k st
+;
+Look, I am petitioning to you, and you do not listen to it.
+
+jw=j r Smt spr Hr=k n jnpw
+;
+I will go to petition on account of you to Anubis.
+
+jw afdt jm nt ds m at sjptj rn=s m jwnw
+;
+There is flint in the box in the room called inventory in heliopolis.
+
+mk st m tA a=f dt
+;
+Look, it is in this box.
+

@@ -1,0 +1,74 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2016-08-15
+modified = 2016-08-15
+version =
+scheme =
+language = eng
+upload =
+email =
+password =
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of the title of queen Ahmose,
+following the transcription of Sethe (1927), number 31 (pp. 81-82).
+
+For published translations, see Sethe (1914), number 31 (p. 42).
+
+###
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+<1> jrt-pat
+;
+<1> The regentess,
+
+wrt Hswt jmAt
+;
+greatly praised and highly regarded,
+
+smrt ^Hr mrt=f
+;
+beloved friend of Horus,
+
+<2> nbt bnrt
+;
+<2> mistress of grace,
+
+aAt mrwt
+;
+greatly loved,
+
+Hnwt nDm-jb
+;
+mistress of happiness,
+
+<3> Hnwt Hmwt nbt
+;
+<3> mistress of all women,
+
+Ddt jxt nbt jr.tw n=s
+;
+for whom all is done that she says,
+
+<4> smAyt ^Hr 
+;
+<4> companion of Horus,
+
+Hnwt tAwj
+;
+mistress of the Two Lands,
+
+^jaH-msjw anx.tj
+;
+Ahmose, may she live!

@@ -1,0 +1,97 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2016-08-17
+modified = 2016-08-17
+version =
+scheme =
+language = eng
+upload =
+email =
+password =
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of four small inscriptions near
+Tombos, describing Tuthmosis I as destroyer of the Nubians,
+following the transcription of Sethe (1927), number 33 (pp. 87-88).
+
+For published translations, see Sethe (1914), number 33 (pp. 44-45).
+
+###
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+<A1> ^Hr ^kA-nxt mry-mAat
+;
+<A1> Horus: Mighty bull, beloved of Maat;
+
+<A2> nTr nfr ^aA-xpr-kA-^ra Dj anx
+;
+<A2> the good god Aakheperkare, given life,
+
+<A3> sxr ^kS
+;
+<A3> who overthrew Kush,
+
+<A4> ^jmn-^ra mry
+;
+<A4> beloved of Amun-Re.
+
+<B1> ^Hr ^kA-nxt mrj-mAat
+;
+<B1> Horus: Mighty bull, beloved of Maat;
+
+<B2> nsw-bjtj nb tAwj ^aA-xpr-kA-^ra Dj anx
+;
+<B2> The king of Upper and Lower Egypt, lord of the Two Lands: Aakheperkare, given life,
+
+<B3> Hqa nxt sk nHsw
+;
+<B3> strong ruler, who has destroyed the Nubians,
+
+<B4> ^jmn nb ^nswt-tAwj mry
+;
+<B4> beloved of Amun, lord of the Thrones of the Two Lands.
+
+<C1> nbtj ^xaj-m-nsrt aA-pHtj<note>Emended as suggested by Sethe (1927).</note>
+;
+<C1> Two Ladies: Shining as a flame, great of strength;
+
+<C2> nTr nfr nb tAwj ^aA-xpr-kA-^ra Dj anx
+;
+<C2> the good god, lord of the Two Lands Aakheperkare, given life,
+
+<C3> nHm tA [...]
+;
+<C3> who saved the land [...],
+
+<C4> ^mnTw nb ^wAst mry
+;
+<C4> beloved of Month, lord of Thebes.
+
+<D1> ^Hr-nbw ^nfr-rnpwt sanx-jbw
+;
+<D1> Gold Horus: Perfect of years, who enlivens the hearts;
+
+<D2> sA-^ra n Xt=f ^DHwtj-msjw xaj-mj-^ra Dj anx
+;
+<D2> Son of Re, of his body: Tuthmosis, shining like Re, given life,
+
+<D3> nb ^tA-stj m [...] m st nb
+;
+<D3> lord of Taseti in [...] everywhere,
+
+<D4> ^jmn nb ^nswt-tAwj mry
+;
+<D4> beloved of Amun, lord of the Thrones of the Two Lands.
+
+

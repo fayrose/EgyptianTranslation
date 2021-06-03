@@ -1,0 +1,1382 @@
+%pa 46
+
+%li 2
+%al mk wi m-bAH.k
+%tr behold, I am before thee.
+
+%li 7
+%al rdi.n.(i) wi Hr Xt.i
+%tr I placed myself on my belly.
+
+%pa 52
+
+%li 9
+%tr by what means (lit. with what) shall one ferry across ?
+%bi Peas. B 1, 199
+
+%pa 53
+
+%li 3
+%bi Peas. B 1, 7-8
+
+%pa 54
+
+%li 3
+%bi Peas. B 2, 26
+
+%pa 61
+
+%li 7
+%bi Peas. B 2, 103
+
+%pa 65
+
+%li 12
+%al imy-r pr
+%tr overseer of the house, i.e. steward.
+
+%li 13
+%al nb imAx
+%tr possessor of veneration, venerable.
+
+%pa 66
+
+%li 5
+%al nsw n ^kmt
+%tr the king of Egypt.
+
+%li 7
+%al wrw nw AbDw
+%tr the great ones of Abydus.
+
+%li 8
+%bi Peas. R 42
+
+%li 10
+%bi Peas. R 35
+
+%pa 67
+
+%li 1
+%tr O praised one, may Arsaphes (the god of Herakleopolis Magna)
+praise thee.
+%bi Peas. B 1, 196
+
+%li 3 
+%al mk wi r nHm aA.k, sxty, Hr wnm.f Sma.i
+%tr I will take away thy ass, peasant, because it is eating my corn.
+%bi Peas. B 1, 11-12
+
+%pa 68
+
+%li 7
+%bi Peas. B 1, 84
+
+%pa 77
+
+%li 1 
+%tr a wretched washerman, lit. a wretch of a washerman.
+%bi Peas. B 1, 169
+
+%pa 78
+
+%li 2
+%bi Peas. B 1, 53
+
+%li 18
+%tr its other side.
+%bi Peas. Bt. 30
+
+%pa 79
+
+%li 1
+%tr its one side was under water, the other under corn.
+%bi Peas. R 46
+
+%li 7
+%bi Peas. B 1, 48
+
+%li 15a
+%bi Peas. B 1, 41
+
+%li 22
+%tr no one has a heart, lit. not is a heart to a man.
+
+%pa 82
+
+%li 2
+%al HD.n.i, wn hrw
+%tr I set out early, (when) it was day, lit.
+(when) day was.
+
+%li 4
+%al ist wn Hmt.f
+%bi Peas. R 2
+
+%li 5
+%bi Peas. B 1, 89
+
+%pa 83
+
+%li 9
+%tr there is none light-hearted who is heavy (i.e. slow to move)
+as regards his appetites (lit. the counsel of the body).
+%bi Peas. B 1, 209
+
+%pa 86
+
+%li 10
+%al pA pw ^wsir
+%tr such is Osiris, lit. this is he, (namely) Osiris.
+
+%li 13
+%bi Peas. R 5
+
+%pa 87
+
+%li 9
+%tr the corn which is in the storehouse.
+%bi Peas. R 4
+
+%pa 88
+
+%li 7
+%al m-xt iAw n.k-imy
+%tr after thy own old age.
+
+%li 12
+%al nn is n sbi Hr Hm.f
+%tr there is no tomb for him-who-rebels against his Majesty,
+i.e. the rebel shall have no tomb.
+
+%li 13
+%bi Peas. B 1, 292
+
+%pa 89
+
+%li 2
+%bi Peas. B 1, 16
+
+%li 3
+%al n(y)-sw mH 30
+%tr it (the snake) was of 30 cubits.
+
+%li 5
+%al ntk nbw
+%tr to thee belongs gold.
+
+%li 12
+%bi Peas. R 2
+
+%li 15
+%al mk tw m niwt, nn HqA-Hwt.s
+%tr behold, thou art a city without a ruler, 
+lit. as a city, not is a ruler of it.
+%bi Peas. B 1, 190
+
+%pa 93
+
+%li 1
+%tr thy field-plots are in the country.
+%bi Peas. B 2, 65
+
+%li 4
+%al iw nA m sbAyt
+%tr this is an (lit. as an) instruction.
+
+%li 7
+%tr thy rations are in thy house.
+%bi Peas. B 1, 93
+
+%li 9
+%tr the apportioner is (now) a spoiler, lit.
+as a spoiler.
+%bi Peas. B 1, 248
+
+%li 13
+%tr he is (lit. as) a pattern for the criminal (lit. the doer).
+%bi Peas. B 1, 218
+
+%pa 95
+
+%li 6
+%tr behold I am in thy company, lit. at thy side.
+
+%li 7
+%tr behold thou art a herdsman.
+%bi Peas. B 1, 177
+
+%pa 96
+
+%li 3
+%tr now the house of this Djehutnakht was on the river-bank.
+%bi Peas. R 44
+
+%li 10
+%al ti Hm.f Ds.f Hr xtm iAbty
+%tr lo, His Majesty was himself in the eastern fortress.
+
+%li 13
+%bi Peas. Bt. 25
+
+%pa 97
+
+%li 6
+%al n wnt iw-ms im
+%tr there is no misstatement therein.
+
+%li 7
+%al n is aba im
+%tr there is indeed no boasting therein.
+
+%li 8
+%tr thou art not in heaven.
+
+%li 11
+%al HAty.k n.k n imy-HAt
+%tr thou shalt have thy former heart, 
+lit. thy heart is to thee of being-in-front.
+
+%pa 98
+
+%li 8
+%al sy m Hr.f mi tA pt
+%tr it seemed to him like heaven, lit. it (the temple)
+was in his face like the sky.
+
+%pa 100
+
+%li 3
+%al ntk it n nmH
+%tr thou art the father of the orphan.
+%bi Peas. B 1, 62
+
+%li 6
+%al rn n mwt.s ^TwiA
+%tr the name of her mother is Tjuia.
+
+%pa 102
+
+%li 3
+%al wAt ^DHwty nw r pr ^mAat
+%tr this is the road of Thoth to the house of Maet.
+
+%li 5
+%al iSst tr ixt irt.n.k n.s
+%tr what is, pray, the thing which thou hast done to it ?
+
+%li 6
+%al ptr rf sw
+%tr who is he ?
+
+%pa 103
+
+%li 1
+%al ink is HqA ^pwnt
+%tr it is I (who am) the ruler of Pwenet.
+
+%li 12
+%al sxty pw n ^sxt-HmAt
+%tr he was a peasant of the Wady Natrun.
+%bi Peas. R 1
+
+%pa 104
+
+%li 4
+%al mnw pw n s nfrw.f
+%tr a man's goodness is his monument, lit.
+the monument it (is) of a man, (namely) his goodness.
+
+%pa 105
+
+%li 8
+%al isT sA pw mnx
+%tr lo, he was a beneficent son.
+
+%li 9
+%bi Peas. B 1, 44
+
+%pa 106
+
+%li 5
+%al n ink tr smA.f
+%tr I am not, forsooth, a confederate of his.
+
+%pa 109
+
+%li 1
+%bi Peas. B 1, 3
+
+%li 2
+%al wr Hst.i m stp-sA r smr waty nb
+%tr greater was my praise in the palace than 
+(that of) any Unique Friend.
+
+%li 5
+%al twt.wy n.s st
+%tr how like (to) her it is!
+
+%pa 110
+
+%li 1
+%bi Peas. R 45
+
+%li 2
+%bi Peas. B 1, 165
+
+%pa 111
+
+%li 10
+%al di.i sSA.f m aA.k
+%tr I will cause him to become acquainted with thy greatness.
+
+%pa 112
+
+%li 4
+%bi Peas. B 2, 103
+
+%pa 114
+
+%li 2
+%al antyw n.i-im sw
+%tr the incense, it belongs to me.
+
+%pa 115
+
+%li 4
+%al mk nTr rdi.n.f anx.k
+%tr behold, god has caused thee to live.
+
+%li 8
+%bi Peas. B 1, 284
+
+%pa 116
+
+%li 3
+%al ir xm nb r pn, n aq.n.f
+%tr as to anyone who does not know this spell,
+he shall never enter.
+
+%li 4
+%al ir ntt nbt m sS Hr pA Sfdw sDm st
+%tr as to all which is in writing on the papyrus-roll, hear it.
+
+%li 8
+%al ir sDm.k nn Dd.n.i n.k, wnn sxr.k nb r HAt
+%tr if thou harkenest to this that I have said to thee,
+every plan of thine will go forward, lit. will be to the front.
+
+%li 10
+%tr if he be a big child, he shall swallow it down,
+lit. swallow it with a swallowing.
+
+%pa 117
+
+%li 2
+%al ir iqr.k, grg.k pr.k
+%tr if thou art well-to-do, thou shalt found thy house.
+
+%li 4
+%bi Peas. B 1, 52
+
+%li 5
+%bi Peas. R 59
+
+%pa 118
+
+%li 8
+%bi Peas. B 1, 126-127
+
+%pa 119
+
+%li 5
+%bi Peas. B 1, 79
+
+%pa 121
+
+%li 1
+%al wabw imyw hAw.sn
+%tr the priests who-are-in their times, i.e. the priests of any given time.
+
+%li 3
+%al wa im nb
+%tr every one thereof
+
+%li 4
+%al Hswt.i nt xr nsw
+%tr my favours from (lit. of with) the king.
+
+%pa 126
+
+%li 3
+%bi Peas. B 1, 31
+
+%pa 127
+
+%li 7
+%al n Abd 2
+%tr within two months.
+
+%li 14
+%bi Peas. B 1, 104
+
+%li 17
+%al Hr Abd 2
+%tr in two months.
+
+%pa 136
+
+%li 16
+%bi Peas. B 1, 79
+
+%pa 143
+
+%li 10
+%bi Peas. B 1, 176
+
+%pa 145
+
+%li 12
+%bi Peas. B 1, 46-47
+
+%pa 149
+
+%li 3
+%tr an ear whose hearing is poor, lit. poor is its hearing.
+
+%pa 150
+
+%li 5
+%bi Peas. B 1, 43
+
+%pa 151
+
+%li 7
+%al in nty mrt m Xt.f
+%tr by him in whose body the pains are, lit. 
+by him who the pains are in his body.
+
+%pa 152
+
+%li 2
+%al mi nty n mr.f
+%tr like one who has not been ill.
+
+%pa 153
+
+%li 3
+%tr do not beg from (lit. to) him who has no property.
+
+%pa 156
+
+%li 23
+%bi Peas. B 1, 75-76
+
+%pa 160
+
+%li 1
+%bi Peas. R 41-42
+
+%pa 161
+
+%li 3
+%al isT wi xd.i ......  sDAwtyw(?) ...... Hr mAA stA.i 
+%tr when I sailed down (to do homage) ..... the treasurers ........
+witnessed my introduction.
+
+%pa 163
+
+%li 7
+%al xr HAt nt ^n pn r tA, xr ^nwt r tA
+%tr if the face of this <al>^n</al> (= an Eg. personal name)
+fall to the ground, Nut will fall to the ground.
+
+%pa 165
+
+%li 6
+%bi Peas. B 1, 38-39
+
+%pa 174
+
+%li 3
+%al aHa.n rdi.n sr pn wDt m Hr.i m Dd
+%tr thereupon this official placed the command before me as follows, 
+lit. in saying.
+
+%pa 175
+
+%li 2
+%bi Peas. B 1, 18
+
+%li 3
+%bi Peas. B 1, 95
+
+%pa 176
+
+%li 5
+%al n-m in tw
+%tr who is it that has brought thee ?
+
+%li 6
+%bi Peas. B 1, 106
+%% corrected from B 106
+
+%pa 177
+
+%li 3
+%bi Peas. B 1, 150
+
+%pa 180
+
+%li 3
+%bi Peas. B 1, 111-112
+
+%pa 184
+
+%li 2
+%bi Peas. B 1, 180
+
+%li 5
+%al n ii.n is xt Ds.s
+%tr wealth does not indeed come of itself.
+
+%pa 186
+
+%li 13
+%bi Peas. B 1, 29-30
+
+%li 17
+%bi Peas. R 59
+
+%pa 188
+
+%li 1
+%al Dd.i swt, di.i sDm.tn
+%tr I speak, I cause you to hear.
+
+%li 13
+%bi Peas. B 1, 180
+
+%pa 189
+
+%li 13
+%bi Peas. B 1, 200
+
+%pa 193
+
+%li 3
+%bi Peas. R 6
+
+%pa 194
+
+%li 2
+%bi Peas. R 46
+
+%li 5
+%bi Peas. B 1, 9
+
+%pa 197
+
+%li 6
+%al ir hrw n Hwt-nTr r-360 pw xnt rnpt
+%tr as for a temple day, it is the three hundred 
+and sixtieth part of (lit. out of) the year.
+
+%pa 199
+
+%li 27
+%bi Amarn. v. 26, 18-19
+%% Not "Amarna".
+
+%pa 201
+
+%li 2
+
+%pa 223
+
+%li 2
+%al m Hst nt ^skry
+%tr in the favour of Sokar!
+
+%pa 225
+
+%li 2
+%al gmt.f in Hm.f
+%tr finding him by His Majesty, i.e. His Majesty found him.
+
+%pa 228
+
+%li 5
+%bi Peas. B 1, 34-35
+
+%pa 230
+
+%li 7
+%al rdit.f wi m-HAt Xrdw.f
+%tr he placed me in front of his children. 
+
+%pa 231
+
+%li 4
+%al pr.k aq.k, nn HnHn.k, nn Sna.k Hr sbA n dwAt
+%tr mayst thou go out and in, without being driven back, and without
+being turned away from the door of the netherworld. 
+Lit. there is not the driving back of thee, etc.
+
+%pa 232
+
+%li 3
+%al iwt(y) rx rn.f
+%tr whose name is not known.
+
+%pa 239
+
+%li 1
+%al Hr.tiwny r wnm adw
+%tr beware of (lit. be ye far from) eating the <i>adu</i>-fish.
+
+%li 3
+%al ii.ti n.i
+%tr welcome to me ! Lit. thou art come to me.
+
+%pa 241
+
+%li 1
+%bi Peas. B 1, 78
+
+%li 3
+%al imi rn.i nfr(w) m niwt.k
+%tr cause my name to be fair in thy city.
+
+%li 4
+%al gm.n.tw nAy.sn irp wAHw m nAy.sn nmw
+%tr their wine was found lying (lit. placed) in their presses.
+
+%li 10
+%al wrrt bAk.ti m nbw
+%tr a chariot wrought in gold.
+
+%pa 246
+
+%li 5
+%tr the trees cracked and the earth shook.
+
+%li 8
+%bi Peas. B 1, 104-105
+
+%pa 247
+
+%li 3
+%bi Peas. B 1, 301
+
+%li 6
+%bi Peas. B 1, 124-125
+
+%pa 248
+
+%li 5
+%bi Peas. B 2, 113-114
+
+%li 8
+%bi Peas. B 1, 116
+
+%li 12
+%al ist wi aHa.kwi sDm.n.i
+%tr lo, I was standing and I heard; <em>or</em>,
+as I was standing, I heard.
+
+%pa 249
+
+%li 6
+%bi Peas. R 1
+
+%li 8
+%al wnn.k Hr rdit di.tw n.f aqw
+%tr thou shalt cause (lit. shalt be on causing) 
+provisions to be given to him.
+%bi Peas. B 1, 83
+
+%li 10
+%tr nay, but he who is yonder shall stand in the bark 
+(of the sun-god).
+
+%pa 250
+
+%li 2
+%al wn.ki rf dwn.kwi Hr Xt.i
+%tr now (while) I was stretched on my belly.
+
+%pa 251
+
+%li 3
+%tr like one who is thinking of something else,
+lit. who is on recalling another saying.
+
+%pa 253
+
+%li 1
+%al gm.n.i HfAw pw iw.f m iit
+%tr I found it was a serpent which was coming,
+lit. it was in coming.
+
+%li 2
+%bi Peas. R 2-3
+
+%li 5
+%al ib n Hm.k r qbb n mAA
+%tr the heart of Thy Majesty will be refreshed at seeing.
+
+%li 6
+%al iw dpt r iit m Xnw
+%tr a ship will come from home.
+
+%li 9
+%al mk wi r nHm aA.k, sxty
+%tr behold, I will take away thy ass, peasant.
+%bi Peas. B 1, 11
+%% Subsumed by pa 67 li 3
+
+%pa 254
+
+%li 10
+%bi Peas. B 1, 293
+
+%pa 258
+
+%li 7
+%tr go fetch me a cloth from my house.
+%bi Peas. R 47-48
+
+%li 9
+%tr come, ye gods, and give him protection, 
+lit. make his protection.
+
+%li 10
+%tr give judgment thou thyself.
+%bi Peas. B 2, 133
+
+%li 12
+%al As tw
+%tr haste thee
+
+%li 14
+%tr equip for thyself a bark with all the fair 
+ones of the Residence.
+
+%pa 259
+
+%li 1
+%al sA r.k
+%tr tarry thou.
+
+%pa 260
+
+%li 13
+%tr do not put one thing in the place of another.
+%bi Peas. B 1, 152
+
+%li 16
+%al m aA ib.k Hr rx.k
+%tr do not be puffed up (lit. great as to thy
+heart) on account of thy knowledge.
+
+%li 18
+%al m rdi Sm.n Hr mTn pf StA
+%tr let us not go upon that difficult road.
+
+%pa 263
+
+%li 2
+%bi Peas. B 1, 214
+
+%li 4
+%al im(i) mAA rmT
+%tr let not men see.
+
+%pa 264
+
+%li 1
+%al im(i).k ir xt r.s
+%tr thou shalt do nothing concerning it.
+
+%li 6
+%tr why, pray, have not vessels (with grain) been brought ?
+
+%li 7
+%al tm.tw rdit rxt.sn Hr wD pn r tm saSA mdwt
+%tr the number of them has not been put upon this record
+in order not to multiply words. <em>Or</em>, that the number 
+has not been put ... is in order not, etc.
+
+%li 8
+%al nn tm.f ir bw nfr n xAst wnnty.sy Hr mw.f
+%tr he will not fail to do good to the land
+which will be loyal to him, lit. be on his water.
+
+%li 10
+%bi Peas. B 1, 30
+
+%pa 271
+
+%li 17
+%bi Peas. B 1, 45-46
+
+%pa 273
+
+%li 2
+%al Ax n irr r irrw n.f
+%tr (it is) more useful for him who does (it) than
+him for whom (it) is done, lit. than (the one) done for him.
+
+%pa 282
+
+%li 4
+%tr the Asiatics who had come in my company.
+
+%pa 283
+
+%li 2
+%al i mrrw anx, msDDw mwt
+%tr O ye who love life and hate death.
+
+%li 3
+%al sA.i nb srwdty.fy tAS pn
+%tr every son of mine who shall strengthen this boundary.
+
+%pa 284
+
+%li 4
+%tr always going forth praised and loved.
+
+%li 9
+%tr he is a mighty man, achieving with his strong arm.
+
+%pa 285
+
+%li 4
+%bi Peas. R 130
+
+%pa 286
+
+%li 2
+%tr list of officials to whom things were brought
+(lit. who were brought-to-them) on this day.
+
+%li 7
+%bi Peas. B 1, 68-69
+
+%li 8
+%al mk fA pw n iTA iry.k
+%tr behold, it is the supporting of the chief which is
+done by thee.
+%bi Peas. B 1, 235-236
+
+%pa 287
+
+%li 6
+%bi Peas. B 1, 192-193
+
+%pa 289
+
+%li 1
+%bi Peas. B 1, 85-86
+
+%li 5
+%tr he rejoices (lit. is one-rejoicing) thereat more
+than any petitioner.
+
+%pa 293
+
+%li 4
+%bi Peas. B 1, 85-86
+
+%pa 295
+
+%li 4
+%al ir grt Sdd sw nb Hr.f ra nb
+%tr but as to everyone over whom it (this spell)
+is read every day. Lit. every read-it-over-him.
+
+%pa 296
+
+%li 7
+%al sA.f mry.f
+%tr his son who is beloved of him.
+
+%li 10
+%al Hsyt nt ^Ht-Hr
+%tr praised of Hathor
+
+%pa 297
+
+%li 1
+%al sDmw n.f sDmw
+%tr one to whom (lit. to him) judges listen.
+
+%pa 298
+
+%li 3
+%al rdit.n.f n.i nbt
+%tr all that he gave to me.
+
+%li 7
+%al ir.n.(i) mrrt rmT, Hsst nTrw
+%tr I did what men love and what the gods praise.
+Or, I did what is loved of men and what is praised of the gods.
+
+%pa 299
+
+%li 7
+%al Dd.n nb (a.w.s.): ink rdi.i ir.tw.f n.k
+%tr of which (my) lord (l. p. h.) said:
+I will cause it to be made for thee.
+
+%pa 306
+
+%li 7
+%al nn gm.k xnt.k hr.s 
+<no>[note: </no>hr.s<no> should be </no>Hr.s<no>]</no>
+%tr thou wilt not find (anything) whereon thou mayst rest.
+
+%pa 307
+
+%li 11
+%al irt xrpw nb mry.f xpr im.f
+<no>[note: </no>xrpw<no> should be </no>xprw<no>]</no>
+%tr the making of all changes into which he may wish to change.
+
+%li 1
+%al nn n xt rdi(w).n.i n nn n wabw
+%tr these things which I have given to these priests.
+
+%li 4
+%al sqdw im.s rx(w).n.k
+%tr sailors being in it whom thou knowest.
+
+%pa 312
+
+%li 1
+%bi Peas. B 1, 46
+
+%li 2
+%bi Peas. B 1, 21
+
+%li 4
+%bi Peas. B 1, 4
+
+%li 11
+%bi Peas. B 1, 217-218
+
+%pa 313
+
+%li 2
+%al nn wn xmt.n.f r-sy
+%tr there is nothing at all which he does not know.
+
+%li 6
+%bi Peas. B 1, 285
+
+%pa 314
+
+%li 1
+%al wn m ipwty Hr hAb ky
+%tr he who was (formerly) a messenger (now) sends another.
+
+%pa 315
+
+%li 6
+%al ir grt fxty.fy sw, tmt(y).f(y) aHA Hr.f
+%tr now as for him who shall lose it (this boundary)
+and shall not fight on behalf of it.
+
+%pa 317
+
+%li 2
+%al m grg dwA n iit.f
+%tr provide not for to-morrow before it has come.
+%bi Peas. B 1, 183
+
+%li 5
+%tr now his eye had not yet been ill.
+
+%li 7
+%bi Peas. B 1, 272
+
+%li 8
+%al sr.sn Da n iit, nSny n xprt.f
+%tr they could foretell a storm before (it) came, 
+and a tempest before it happened.
+
+%pa 318
+
+%li 9
+%al xpr.n.i, n myst kAw, n iryt idwt (?)
+%tr I came into existence when bulls had not yet been born, 
+and cows had not yet been made.
+
+%pa 321
+
+%li 2
+%tr do not speak to him until he has invited.
+
+%pa 325
+
+%li 7
+%bi Peas. B 1, 52
+
+%pa 329
+
+%li 18
+%al pH.n.k nn Hr m
+%tr how hast thou come to this pass? Lit. on account of
+what hast thou reached this?
+
+%li 19
+%al i.n.i xr.Tn sD.i pAsw.Tn
+%tr I have come to you in order that I may break your
+water-pots.
+
+%pa 330
+
+%li 1
+%al mk hAb.n.i Hr Hn.k n imy-r pr
+%tr behold, I have written (lit. sent) commending thee to the steward.
+
+%pa 333
+
+%li 3
+%al ir sqdd Xr.f, n sAH.n.f tA
+%tr as for him who sails with falsehood for a cargo
+(lit. under it (<al>grg</al>)), he does not reach land.
+%bi Peas. B 2, 101-102
+
+%li 6
+%bi Peas. B 1, 31-32
+
+%pa 334
+
+%li 1
+%bi Peas. B 1, 316
+
+%pa 339
+
+%li 1
+%tr one hundred persons were given to me as reward.
+
+%pa 340
+
+%li 4
+%al mk ms n.k xrdw 3
+%tr behold, three children have been born to thee.
+
+%li 5
+%al ist ir nA n AHt m iHwt
+%tr now these fields had been made into plough-lands.
+
+%li 9
+%al irw m xt wat
+%tr it is (to be) mixed together, lit. made as one thing.
+
+%pa 341
+
+%li 8
+%al ir.n.i n.i miHat tw sAx.ti, smnx st.s r rwd nTr aA
+%tr I made for myself this tomb, it being consecrated and
+its place being embellished at the staircase of the great god.
+
+%pa 343
+
+%li 12
+%al n nHmn tp.f m-a.f
+%tr his head is not (<i>or</i> has not been) taken away from him.
+
+%pa 345
+
+%li 11
+%bi Peas. R 2
+
+%pa 346
+
+%li 15
+%bi Peas. B 1, 188
+
+%pa 347
+
+%li 5
+%al nHm.kA.t(w) sTp(w)t Hr xAwt nTrw
+%tr then the choice joints shall be removed 
+from the altars of the gods.
+
+%pa 348
+
+%li 13
+%al xr(y).fy sw ^itm
+%tr says he, namely Atum.
+
+%pa 352
+
+%li 20
+%bi Peas. B 1, 307
+
+%li 23
+%al sqdd tA xft wD.k
+%tr [Thou art the rudder of the entire land,]
+the land sails in accordance with thy commmand.
+%bi Peas. B 1, 267
+
+%pa 353
+
+%li 5
+%al xdd.i Xr inw.s n nsw Tnw rnpt nb(t), prr.i im m mAa-xrw,
+n gm.n.tw DAt.i
+%tr I used to sail down with its tribute to the king every year, 
+and went forth thence vindicated,
+and no deficiency was found in (lit. of) me.
+
+%pa 354
+
+%li 1
+%al irr Hm.k m mrr.f
+%tr may Thy Majesty do as he wills.
+
+%li 2
+%bi Peas. B 1, 164
+
+%pa 355
+
+%li 4
+%tr as ye wish that honour for you should be with Osiris.
+
+%pa 356
+
+%li 2
+%tr as to (the phrase) `his heart is drowned'
+this means that his heart is forgetful.
+
+%li 7
+%al it.n.i rnpt 110 m anx n dd n.i nsw
+%tr I spent 110 years of life which (lit. of) 
+the king gave to me.
+
+%li 9
+%al r tr n nSnn pt
+%tr whenever heaven rages.
+Lit. at the season of heaven-rages.
+
+%pa 357
+
+%li 3
+%tr he is stout of heart when he sees a multitude.
+
+%li 4
+%bi Peas. R 41-42
+
+%li 5
+%bi Peas. R 123
+
+%li 6
+%bi Peas. B 1, 78
+
+%li 12
+%al mi xdd mw
+%tr [They found their wine lying in their vats] 
+as when water flows. I.e., their wine was as abundant as
+ever-flowing water.
+
+%pa 359
+
+%li 3
+%bi Peas. B 1, 121
+
+%pa 361
+
+%li 1
+%bi Peas. B 1, 82-86
+
+%pa 367
+
+%li 4
+%bi Peas. B 1, 13-14
+%% corrected from 14
+
+%li 9
+%al ms.s m Abd 1 (n) prt, sw 15
+%tr she will give birth on the fifteenth day of the first month of winter.
+
+%pa 368
+
+%li 1
+%bi Peas. B 1, 29
+
+%li 7
+%al int n.f ^Hp Htpt.f, wnm.f m r.f, mA.f m irty.f
+%tr may the Inundation god bring him his offering, may he eat
+with his mouth, may he see with his eyes.
+
+%li 8
+%bi Peas. B 1, 196
+
+%li 11
+%al ix ir.n dmi n sp
+%tr then let us make a habitation together.
+
+%li 17
+%al Hw iry.k xft Dd.i
+%tr O that thou mayst act according as I say.
+
+%pa 375
+
+%li 1
+%bi Peas. B 1, 54
+
+%li 25
+%al n mA.i mity srw pn
+%tr I have never (lit. not) seen the like of this goose.
+
+%li 26
+%al n sxs.t(w) m-sA.i
+%tr no one had run after me.
+
+%li 27
+%tr behold, one has never (lit. not) commanded to do the like thereof.
+
+%pa 376
+
+%li 1
+%al n rx.i in wi r xAst tn
+%tr I do not know who (lit. him who) brought me to this country.
+
+%pa 377
+
+%li 20
+%tr she will never give birth.
+
+%pa 379
+
+%li 9
+%bi Peas. B 1, 242
+
+%pa 385
+
+%li 7
+%al iw gm.t(w).s m-a Hmwt Hr bnwt
+%tr (but) it is found with handmaidens at (their) mill-stones.
+
+%li 10
+%bi Peas. B 1, 292
+
+%pa 386
+
+%li 3
+%tr this prince of &lt;Re&gt;tjnu caused me to
+spend many years as commander of his army.
+
+%pa 390
+
+%li 2
+%bi Peas. B 1, 24
+
+%li 12
+%bi Peas. Bt. 35
+
+%pa 391
+
+%li 1
+%al wn.in Hm.f hAb.f n.i Xr Awt-a
+%tr thereupon His Majesty kept sending to me with presents.
+
+%pa 392
+
+%li 5
+%al aHa.n pH.n.(i) ^wAD-wr
+%tr then I reached the Red Sea.
+
+%li 6
+%al aHa.n sbt.n.f im.i
+%tr then he laughed at me.
+
+%pa 393
+
+%li 4
+%tr then two boats were caused to wait upon him.
+Lit. (it) was caused that, etc.
+
+%pa 395
+
+%li 3
+%al n sp pA.t(w) irt st Dr hAw n-sw-bit ^snfrw, mAa-xrw
+%tr never had it been done (lit. not occurred that one did the making of it)
+since the time of king Snofru, the justified.
+
+%li 4
+%al nfr st r pAyt xpr
+%tr they were more beautiful than that which had existed formerly,
+lit. that which had-done (perf. act. part.) exist.
+
+%pa 396
+
+%li 2
+%bi Peas. B 1, 276
+
+%pa 397
+
+%li 9
+%bi Peas. B 1, 23-24
+
+%pa 398
+
+%li 3
+%bi Peas. B 1, 251-252
+
+%pa 401
+
+%li 2
+%bi Peas. B 1, 257
+
+%li 3
+%bi Peas. B 1, 149-150
+
+%pa 402
+
+%li 2
+%bi Peas. B 1, 46-48
+
+%li 5
+%bi Peas. B 1, 95-96
+
+%pa 403
+
+%li 1
+%bi Peas. B 1, 302
+
+%li 4
+%al in iw mAat pw pA Dd
+%tr is the saying true, lit. truth?
+
+%li 5
+%bi Peas. B 2, 68
+
+%li 11
+%bi Peas. B 1, 148-149
+
+%pa 404
+
+%li 1
+%bi Peas. B 1, 19
+
+%li 2
+%bi Peas. B 1, 224-225
+
+%li 4
+%bi Peas. R 59
+
+%pa 405
+
+%li 10
+%tr wherefore, pray, dost thou not hearken ?
+%bi Peas. B 1, 180
+
+%pa 407
+
+%li 11
+%bi Peas. B 1, 129

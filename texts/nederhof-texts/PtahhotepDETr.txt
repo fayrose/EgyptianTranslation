@@ -1,0 +1,1995 @@
+creator = Lauren Fay Rosenberg
+name = FayRose
+labelname = Lfr
+created = 2019-12-13
+modified = 2019-12-13
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Translation according to Digital Egypt, beginning at header (3).
+https://www.ucl.ac.uk/museums-static/digitalegypt/literature/ptahhotep.html
+###
+
+###
+
+HAtj-a m Tsw n mdt nfrt
+;
+Beginning of the collection of fine words
+
+Ddt.n jrj-pat HAtj-a
+;
+Said by the man of the elite, foremost of arm
+
+jt-nTr mry nTr
+;
+god's father and beloved of the god
+
+sA nswt smsw n Xt=f
+;
+eldest son of the king of his body
+
+jmj-r njwt TAty ptH-Htp
+;
+overseer of the city, vizier Ptahhotep
+
+m sbA xmw r rx
+;
+in teaching the ignorant to be wise
+
+r tp-Hsb n mdt nfrt
+;
+according to the rules of fine words,
+
+m Axt n sDm.tj=fj
+;
+something useful to whoever heeds,
+
+m wggt n nty r tht st
+;
+and something harmful to whoever transgresses it.
+
+Dd.jn=f xr sA=f
+;
+Then he addressed his son:
+
+m aA jb=k Hr rx=k
+;
+Do not be proud on account of your knowledge,
+
+nDnD r=k Hna xm mj rx
+;
+but discuss with the ignorant as with the wise.
+
+n jn.tw Drw Hmwt
+;
+The limits of art cannot be delivered;
+
+nn Hmww apr Axw=f
+;
+there is no artist whose talent is fulfilled.
+
+dgA mdt nfrt r wAD
+;
+Fine words are more sought after than greenstone,
+
+jw gm st m-a Hmwt Hr bnwt
+;
+but can be found with the women at the grindstone.
+
+jr gm=k DAjsw m At=f
+;
+If you meet an opponent in his moment
+
+xrp jb m jqr r=k
+;
+A director of heart who is superior to you,
+
+xAm awj=k XmsA=k
+;
+bend your arms and bow;
+
+m TA jb=k r=f
+;
+do not take up your heart against him,
+
+nn mn.n=f n=k
+;
+for he will not be swayed for you.
+
+sand=k Dd bjn
+;
+You can belittle bad speaking
+
+m tm xsf sw m At=f
+;
+by not clashing with him in his moment;
+
+njs(.tw)=f m xm-xt pw
+;
+it will mean he is called a fool,
+
+rmn.n dAjr jb=k aHa=f
+;
+when your self-restraint has subdued his excess.
+
+jr gm=k DAjsw m At=f
+;
+If you meet an opponent in his moment
+
+mjtw=k nty m rmnwt=k
+;
+Your equal, a man from your levels,
+
+dd=k xpr jqr=k r=f m gr
+;
+silence is how you establish your superiority over him,
+
+jw=f Hr mdt bjnt
+;
+while he is bad mouthing,
+
+wr wfA jn sDmyw
+;
+greatly to the disgust of the assessors,
+
+rn=k nfr m rx n srw
+;
+and your name is the good one in the mind of the officials.
+
+jr gm=k DAjsw m At=f
+;
+If you meet an opponent in his moment
+
+m Hwrw n js mjtw=k
+;
+Who is a poor man, and not your equal,
+
+m Ad jb=k r=f xft Xss=f
+;
+do not vent your heart on him by his wretchedness.
+
+jmj sw r tA xsf=f n=f Ds=f
+;
+Put him on land for him to oppose himself.
+
+m wSd sw r jsy jb=k m ja-jb n nty xft=k
+;
+Do not pour out your heart at the man facing you.
+
+qsn pw HDDw Hwrw jb
+;
+The demolition of a wretched heart is a difficult matter.
+
+tw r jrt ntt m jb=k
+;
+What you wish will be done;
+
+Hw=k sw m xsf n srw
+;
+beat him with the hostility of the officials.
+
+jr wnn=k m sSmyw
+;
+If you are to be among leaders
+
+Hr wD n sxr n aSAt
+;
+at a command for the condition of the multitude,
+
+HH n=k sp nb mnx
+;
+seek out for yourself every effective moment,
+
+r wnt sxr=k nn jw jm=f
+;
+until your condition reaches faultlessness.
+
+wr mAat wAH spdt
+;
+What is right is great, and what is keen endures.
+
+n Xnn(.tw)=s Dr rk wsjr
+;
+It has not been overturned since the time of Osiris.
+
+jw xsf.tw n swA Hr hpw
+;
+The one who overlooks laws is punished;
+
+swAt pw m Hr n awn-jb
+;
+that is what is overlooked in the sight of the greedy.
+
+jn nDyt jTt aHaw
+;
+It is the small-minded that seize riches,
+
+n pA DAyt mnj sp=s
+;
+but crime never managed to land its rewards.
+
+jw=f Dd=f sxt=j r=j Ds=j
+;
+Whoever says 'I snare for myself'
+
+n Dd n=f sxt=j Hr Hnt=j
+;
+does not say 'I snare for my needs'.
+
+wn pHwj mAat wAH=s
+;
+The final part of what is right is its endurance;
+
+Ddw s w jt=j pw
+;
+of which a man says 'that is my father'
+
+jm=k jr Hr m rmT
+;
+Do not cause fear among people
+
+xsf nTr m mjtt
+;
+God punishes with the same.
+
+jw s Dd=f anx=j jm
+;
+Anyone who says 'I can live by it'
+
+jw=f Sw m t n tp-r=f
+;
+will lack bread for his statement.
+
+jw s Dd=f wsr=j
+;
+Anyone who say 'I can be powerful'
+
+jw=f Dd=f sxt=j r=j sjAt=j
+;
+will have to say 'I snare against myself by my cleverness'.
+
+jw s Dd=f Hwt=f ky
+;
+Anyone who says he will strike another,
+
+jw=f pH=f rdj(.tw)=f n xm.n=f
+;
+will end by being given to a stranger.
+
+jr wnn=k m s n Hmsw
+;
+If you are a man at a sitting
+
+r st Tt wr r=k
+;
+at the table place of one greater than you,
+
+Ssp ddt=f djw r fnd=k
+;
+take whatever he causes to be set before you,
+
+m dgA r nty m-bAH=f
+;
+do not stare at what is before him,
+
+m stj sw m gmH aSA
+;
+do not pierce it with many glances
+
+bwt kA pw wdt jm=f
+;
+Pressing it is an offence to the ka.
+
+m mdw n=f r jASt=f
+;
+Do not speak to him until he has requested:
+
+n rx.n.tw bjnt Hr jb
+;
+you never know what may displease.
+
+mdw=k xft wSd=f tw
+;
+Speak when he questions you,
+
+jw Ddt=k r nfr Hr jb
+;
+and your speech will please.
+
+jr wr wnn=f HA t
+;
+A great man, when he is at a meal,
+
+sxr xft wD kA=f
+;
+behaviour following the command of his ka,
+
+jw=f r rdjt n Hssy=f
+;
+he will give to the one he favours,
+
+sxr pw n grH xpr
+;
+that is the night-time behaviour that happens
+
+jn xm anay=f Hr=s
+;
+only a fool complains about it.
+
+jr wnn=k m s n aq
+;
+If you are a man of entry
+
+hAbw wr n wr
+;
+sent by official to official,
+
+mtj Hr qd hAb=f tw
+;
+be precise in the form he sent you
+
+jr n=f wpwt mj Dd=f
+;
+carry out the mission for him as he says.
+
+aHA tw m sDw m mdt
+;
+Guard against harming with words,
+
+skn.tj wr n wr
+;
+embroiling official with official.
+
+n dr mAat m sn=s
+;
+Grasp what is right by its likeness;
+
+n wHm.tw js ja n jb
+;
+an outburst of the heart is not repeated
+
+m mdyw rmT nbt
+;
+from the speech of all people.
+
+jr skA=k rwd m sxt
+;
+If you plough for plants on the margins,
+
+dj st nTr wr m-a=k
+;
+the god grants it to be great by your hand
+
+m sA r=k r-gs hAw=k
+;
+Do not inflate your mouth beside your neighbours;
+
+wr jrt Hryt nt gr
+;
+to inspire awe by being silent is greater.
+
+jr nb qd m nb xt
+;
+A master of character who is master of wealth,
+
+jT=f mj msH m qnbt
+;
+he seizes like a crocodile in the council.
+
+m twA n jwty msw=f
+;
+Do not scorn the childless man,
+
+m Hwr m aba jm
+;
+do not bemean by boasting over it.
+
+jw wn wr jt m Ahw
+;
+Even a father can have his plenty of grief;
+
+mwt mst Htp kt r=s
+;
+a mother who has given birth may be less happy than a maid.
+
+jn wa sxprw nTr
+;
+It is the lone man that the god fosters,
+
+jw nb wHyt nH sSms=f
+;
+while the lord of a clan may beg to be followed.
+
+jr Xs=k Sms s jqr
+;
+If you are weak, follow a man of excellence
+
+nfr sSm=k nb xr nTr
+;
+and all your conduct will be good before god.
+
+m rx.n=k nDsw xntw
+;
+When you have known lesser men before,
+
+jm=k aA jb=k r=f
+;
+do not be proud against him,
+
+Hr rxt.n=k jm=f xntw
+;
+from what you knew of him before.
+
+snd n=f xft xprt.n=f
+;
+Respect him according to what he has become,
+
+n jy js xt Ds
+;
+for goods do not come of their own accord.
+
+hp=sn pw n mrrw=sn
+;
+This is their law for their desire.
+
+jr Ttf jw sAq.n=f Ds
+;
+An overflow - he has assembled it of himself.
+
+jn nTr jr jqr=f
+;
+It is the god who makes him excellent,
+
+xsf=f Hr=f jw=f sDr
+;
+and protects him while he sleeps.
+
+Sms jb=k tr n wnn=k
+;
+Follow your heart as long as you live.
+
+m jr HAw Hr mddwt
+;
+Do not make a loss on what is said,
+
+m xb tr n Sms jb
+;
+do not subtract time from following the heart.
+
+bwt kA pw HDt At=f m HAw n grg-pr
+;
+Harming its time is an offence to the ka. Do not deflect the moment of every day beyond establishing your heart.
+
+xpr xt Sms jb
+;
+As things happen, follow (your) heart.
+
+nn km n xt jw sfA=f
+;
+There is no profit in things if it is stifled.
+
+jr wnn=k m s jqr
+;
+If you are a man of excellence
+
+jr=k sA n sjmA nTr
+;
+and produce a son in the favour of god,
+
+jr mty=f pXr=f n qd=k
+;
+if he follows precisely the outline of your character,
+
+nw=f xt=k r st jry
+;
+and ties your things to their proper place,
+
+jr n=f bw nb nfr
+;
+do everything good for him,
+
+sA=k js pw nsw stj kA=k
+;
+for he is your son, he belongs to the shooting of your ka
+
+jm=k jwd jb=k r=f
+;
+Do not separate your heart from him.
+
+jw mtwt jr=s Snty
+;
+Seed may make a disputant;
+
+jr nnm=f th=f sxr=k
+;
+if he wanders, and breaks your advice,
+
+btn.n=f Ddt nbt
+;
+and has rebelled against all that is said,
+
+Sm r=f m mdt Xst
+;
+and his mouth wanders into evil speech,
+
+bAk=k sw r r=f mj qd=f
+;
+battle him in all his words.
+
+wd r=k m xbd.n=sn
+;
+He who attacks you is the one they have condemned.
+
+wdd sdb n=f pw m Xt
+;
+It means it was decreed that he be smjtten in the womb.
+
+n nnm.n sSm=sn
+;
+Their guidance does not stray,
+
+n gm.n jww=sn DAt
+;
+their stranded never find a ferry.
+
+jr wnn=k m rwryt
+;
+If you are in the approach hall
+
+aHa Hms r nmtt nbt
+;
+stand and sit at every step
+
+wdd n=k hrw tpy
+;
+as was ordered to you on the first day.
+
+m swA xpr Snat=k
+;
+Do not waver - that causes your expulsion
+
+spd Hr n aq smj
+;
+The sight of the one who enters to report is keen,
+
+wsx st nt jAS.n=f
+;
+the space of the one he has summoned is broad.
+
+jw rwryt r tp-Hsb
+;
+The approach hall follows regulations,
+
+sxr nb xft xAy
+;
+every move according to the measure.
+
+jn nTr sxnt st
+;
+It is the god who promotes a place
+
+n jr.tw rdjw qaH
+;
+Those who push forward are not made.
+
+jr wnn=k Hna rmT
+;
+If you are to be with people
+
+jr n=k mrt n kfA-jb
+;
+appoint for yourself people you can trust,
+
+kfA jb
+;
+and be trustworthy.
+
+jwty pXr=f Dd m Xt=f
+;
+The man without speech running through his body
+
+xpr=f m Tsw Ds=f
+;
+is the one who becomes a commander himself.
+
+nb xt m-m sxr=f
+;
+A master of goods - what is he like?
+
+rn=k nfr nn mdwj=k
+;
+Your good name is that you do not speak.
+
+Haw=k DfAw Hr=k r hAw=k
+;
+Your body is fattened for you more than your contemporaries.
+
+ab.tw n=k m xmt.n=k
+;
+You receive praise from those you do not know.
+
+wnn jb sDm n Xt=f
+;
+When a heart heeds only its belly,
+
+dj=f knt=f m st mrwt=f
+;
+it puts resentment of it in place of love of it.
+
+jb=f Akw Haw=f XsA
+;
+His heart is afflicted, his body unkempt.
+
+jw wr jb rdjw nTr
+;
+The great of heart is the gift of god,
+
+jw sDm n Xt=f nsw xfty
+;
+the one who obeys his body belongs to the enemy.
+
+smj sSm=k nn am-jb
+;
+Report your matters without hesitating
+
+dj sxr=k m sH n nb=k
+;
+give your advice in the council of your master.
+
+jr Ttf r=f xft Dd=f
+;
+Anyone fully fluent in speaking,
+
+nn qsn r wpwty smj
+;
+will find no difficulty in being a messenger in reporting.
+
+nn wSb.tw m A rx st
+;
+No one will contest 'but who can know it?'
+
+jn wr r xt=f nnm
+;
+It is the one who exceeds his field who comes unstuck -
+
+jr kA=f r xsf=f Hr=s
+;
+if he intends to prevail by it,
+
+jw=f gr=f Hr jw Dd.n=j
+;
+he has to be silent at the words 'I said so'.
+
+jr wnn=k m sSmy
+;
+If you are a leader
+
+wstn sxrw m wdt n=k
+;
+with broad scope in what is commanded to you,
+
+jrr=k xt tnw
+;
+you should do outstanding things,
+
+sxA n=f hrw jj Hr-sA
+;
+so as to be remembered in days to come.
+
+n jy mdt m qAb Hswt
+;
+A case does not arise out of the midst of praises.
+
+bss kApw xpr sfAt
+;
+The hidden beast intrudes - and then there is resistance.
+
+jr wnn=k m sSmy
+;
+If you are to be a leader
+
+hr sDm=k mdw sprw
+;
+be patient in your hearing when the petitioner speaks,
+
+gfn sw r skt Xt=f
+;
+do not halt him until his belly is emptied
+
+m kAt.n=f Dd.n=f st
+;
+of what he had planned to have said.
+
+mr Hr jw jat jb=f
+;
+The victim loves to sate his heart
+
+r jrt jjt.n=f Hr=s
+;
+even more than accomplishing what he came for -
+
+jr jr gnw sprt
+;
+if a petition is halted,
+
+jw Dd.tw jw tr r-m th=f st
+;
+people say 'but why did he break that rule?'.
+
+nn sprt.n=f nbt Hr=s m xprt=sn
+;
+Not everything for which he petitions can come to be,
+
+snaa jb pw sDm nfr
+;
+but a good hearing is soothing for the heart.
+
+jr mr=k swAH xnms
+;
+If you wish friendship to last
+
+m Xnw pr aq=k r=f
+;
+within a house you may enter,
+
+m nb m sn m xnms r-pw
+;
+as master, as brother, or as friend,
+
+r bw nb aq=k jm
+;
+anywhere you may enter,
+
+aHA tw m tkn m Hmt
+;
+resist approaching the wife.
+
+n nfr n bw jrw st jm
+;
+It is not good for the place where it is done,
+
+n spd n Hr Hr pxA st
+;
+It is not clever to open it up,
+
+jw ngb.tw s xA r Axt n=f
+;
+A thousand men are tied against what is good for them;
+
+At ktt mjtt rswt
+;
+a little moment is like a dream,
+
+jw pH.tw mwt Hr rx st
+;
+but death is reached by knowing it.
+
+Ts pw Xs stj xfty
+;
+It is a vile twist to shoot the enemy,
+
+pr.tw Hr jrt=f jb Hr wjn=f
+;
+it comes out on his doing, the heart restraining him.
+
+jr whh m snk Hr=s
+;
+The one who fails by lusting for her,
+
+n mar.n sxr nb m-a=f
+;
+no plan succeeds by his hand.
+
+jr mr=k nfr sSm=k
+;
+If you wish your conduct to be good
+
+nHm tw m-a Dwt nbt
+;
+and to save yourself from all evil,
+
+aHA tw Hr sp n awn jb
+;
+resist the opportunity of greed.
+
+xAt pw mrt nt btw
+;
+It is a sore disease of the worm,
+
+n xpr.n aq jm=s
+;
+no advance can come of it.
+
+jr=s sjbt jtw mwtw
+;
+It embroils fathers and mothers,
+
+Hna snw Hr mwt
+;
+with mother's brothers.
+
+jr nS=s Hmt TAy
+;
+It entangles the wife and the man,
+
+TAwt pw bjnt nbt
+;
+it is a levy of all evils,
+
+arf pw n xbdt nbt
+;
+a bundle of all hatefulness.
+
+wAH s aqA=f mAat
+;
+The man endures whose guideline is Right,
+
+Sm r nmtt=f
+;
+who proceeds according to his paces.
+
+jr=f jr=f jmt-pr jm
+;
+He can draw up a will by it.
+
+nn wn js awn jb
+;
+There is no tomb for the greedy hearted.
+
+m awn jb=k Hr psSt
+;
+Do not be greedy over a share,
+
+m Hnt n js r Xrt=k
+;
+do not be jealous of what is not your due,
+
+m awn jb=k r hAw=k
+;
+do not be greedy against your kin.
+
+wr twA n sfA r nxt
+;
+The mild man receives more respect than the strong.
+
+and pw prr Xr hAw=f
+;
+The one who goes out under his kin is a miserable man,
+
+Sw m jnt n mdt
+;
+deprived of the profit of speech.
+
+jn nhw n awnt Hr=s
+;
+A fraction of the object of greed
+
+sxpr Snty m qb Xt
+;
+creates a quarreler out of a cool temperament.
+
+jr jqr=k grg=k pr=k
+;
+If you are excellent, found your household,
+
+mr=k Hmt=k m-Xn Hsb
+;
+love your wife within reckoning.
+
+mH Xt=s Hbs sA=s
+;
+Fill her belly, clother her back,
+
+pXrt pw nt Haw=s mrHt
+;
+ointment is the remedy for her body.
+
+sAw jb=s tr n wnnt=k
+;
+Gladden her heart as long as you live.
+
+AHt pw Axt n nb=s
+;
+It is a field of benefit for its lord.
+
+jm=k wDa=s ryt
+;
+Do not impose her in affairs.
+
+sHr=s r sxm dAjr=s
+;
+Distance her from power, restrain her.
+
+Da=s pw jrt=s mAA=s
+;
+Her eye is her storm when it sees.
+
+swAH=s pw m pr=k
+;
+This is what keeps her in your house.
+
+Snay=k s mw pw
+;
+Your quelling her, is water.
+
+kAt djt=s n awj=s
+;
+The womb puts her in her arms.
+
+Snnt=s jr n=s mr
+;
+In her turmoil a canal is made for her.
+
+sHtp aqw=k m xprt n=k
+Make your staff happy with what has come to you,
+
+xpr n Hssw nTr
+;
+it has come to one whom the god favours.
+
+jr whh m sHtp aqw=f
+;
+Anyone neglecting the happiness of his staff
+
+jw Dd.tw ka pw aAb
+;
+is called a spirit of hoarding.
+
+n rx.n.tw xprt sjA=f dwA
+;
+No one knows what is coming, when planning tomorrow.
+
+kA pw kA n mty Htpw jm=f
+;
+The spirit of the correct man is the spirit that brings happiness.
+
+jr xpr spw nw Hswt
+;
+If moments of praising arise,
+
+jn aq Dd jywj
+;
+it is the staff who would cheer.
+
+n jn.tw Htpt r dmj
+;
+Food cannot be brought to town 
+
+jw jn.tw aqw wn Aq
+;
+staff are fetched when there is shortage.
+
+im=k wHm msk n mdt
+;
+Do not repeat slander
+
+n sDm=k sw
+;
+and do not listen to it.
+
+prw pw n tA-Xt
+;
+It is the result of the hot-headed.
+
+wHm mdt mA
+;
+Repeat a word after seeing,
+
+n sDm.n st r-tA rsst
+;
+not heard entirely skewed.
+
+mk xft Hr=k rx jqr
+;
+See, what is before you is fine knowledge.
+
+jw wD.tw TAwt jrt=s
+;
+When a levy is decreed to take place,
+
+sxprw r jTt=s msdt mj hp
+;
+the one made to exact it is hated, by law.
+
+jw mskj mj sp n rswt
+;
+Slander is like a moment of dreaming,
+
+mk sswn rswt pw
+;
+See what is the remedy for the dream -
+
+Hbs.tw Hr=s
+;
+concealment.
+
+jr wnn=k m s jqr
+;
+If you are as a man of excellence,
+
+Hms m sH n nb=f
+;
+sitting in the council of his master,
+
+sAq jb nb r bw jqr
+;
+rally every heart to excellence.
+
+gr=k Ax st r tftf
+;
+Your silence is more benefit than creeping talk.
+
+mdy=k rx.n=k wHa=k
+;
+You should say what you know how to explain.
+
+jn Hmww mdw m sH
+;
+There are artists of words in the council,
+
+qsn mdt r kAt nbt
+;
+speaking is more difficult than any labour.
+
+jn wHa=s dd=s r xt
+;
+The one who can explain is the one who makes it work.
+
+jr wsr=k dd=k snd=k
+;
+If you are powerful in causing respect for you,
+
+m rx m hrt Dd
+;
+by knowledge, by calming in speech,
+
+m wD tp n js r sSm
+;
+do not order people, except by the guidelines.
+
+jw Stm aq=f r jwt
+;
+The aggressive man ends up in trouble.
+
+m qA jb=k tm=f dHj
+;
+Do not have your heart too high, or it will be brought down.
+
+m gr sAw xn=k
+;
+Do not stay silent if it makes you stumble.
+
+wSb=k mdt n nsr
+;
+When you answer the speech of a fiery man,
+
+shr Hr=k Hn tw
+;
+distance your sight, restrain yourself.
+
+jw nswt nt tA-jb sXr=f
+;
+The spear of a hothead flies past,
+
+an xndw qd mtn=f
+;
+but a fine mover has his path smoothed.
+
+mnS n hrw r Aw=f
+;
+A man who worries all day long
+
+nn jr n=f At nfrt
+;
+will never be allowed a good moment.
+
+wnf jb n hrw r Aw=f
+;
+A man who lazes all day long
+
+nn grg n=f pr
+;
+will never have a solid house.
+
+stw mH mj Hmw sp r tA
+;
+A shot filled is like an oar abandoned on the ground,
+
+ky nDrw
+;
+when another is taken,
+
+jw sDm.n jb=f r Hn A
+;
+his heart has obeyed the wish 'if only I had'
+
+m xsf tw m At wr
+;
+Do not block the moment of a great man
+
+m sHnw jb n nty Atpw
+;
+do not constrain the desire of one who is laden down.
+
+xpr sdb=f r Snt sw
+;
+Barriers from him arise against the one who disputes with him,
+
+sfx kA m mrr sw
+;
+there is release for the ka with the one who shows love for him.
+
+dd kAw pw Hna nTr
+;
+This is the gift of sustenance, this and the god.
+
+mrrt=f jrt n=f
+;
+What he loves is action for him.
+
+sqd r=k Hr m-xt nSn
+;
+When the face is turned back to you, after a storm,
+
+jw Htp xr kA=f
+;
+there follows peace before his ka,
+
+jw sdb xr xfty
+;
+and barriers before the enemy.
+
+kAw pw srwd mrwt
+;
+Planting love brings sustenance.
+
+sbA wr r Axt n=f
+;
+Instruct the great in what is useful for him
+
+sxpr Ssp=f m Hr rmT
+;
+Foster his image in the sight of people,
+
+dj=k xr sAA=f Hr nb=f
+;
+cause his wisdom to fall in front of his lord,
+
+wnn DfA n=k xr kA=f
+;
+and there may be rewards for you too before his ka.
+
+jw Xt nt mrwt r Htpw
+;
+The stomach of the loved will be content,
+
+jw sA=k r Hbs Xr=s
+;
+your back will be clothed by it,
+
+wn Ssp=f Hr=k r anx n pr=k
+;
+his image will be over you for the life of your house,
+
+xr saH=k mrr=k
+;
+Your noble, the one you love,
+
+anx sw Xr=s
+;
+he is alive by it.
+
+jr=f qaH nfr jm=k gr
+;
+When he makes a good gesture, do not be silent.
+
+wAH grt mrwt=k pw m Xt nt mrrwt tw
+;
+This is indeed the guarantee of your love in the body of those who love you.
+
+mk kA pw mrr sDm
+;
+See, it is the ka that loves to listen.
+
+jr jr=k sA s n qnbt
+;
+If you play the son of a man of a council,
+
+wpwty n hrt aSAt
+;
+a messenger for pleasing the multitude,
+
+Sd mAdw nw a
+;
+select the fringes of action.
+
+mdy=k m rdj Hr gs
+;
+In speaking do not take sides,
+
+sAw Dd=f sxr=f
+;
+in case he speaks his opinion:
+
+srw rdj=f mdt Hr gs jry
+;
+'officials, he sets the case on that side',
+
+wdb sp=k r wDat
+;
+and your mistake is turned into judgement.
+
+jr sf=k Hr sp xprw
+;
+If you show mercy on a past failure,
+
+gsA=k n s Hr aqA=f
+;
+incline to a man for his virtue.
+
+swA Hr=f m sxA sw
+;
+Pass over him, do not recall it,
+
+Dr gr=f n=k hrw tpy
+;
+since he might stay silent for you on day one.
+
+jr aA=k m-xt nDsw=k
+;
+If you are rich after your impoverishment,
+
+jr=k xt m-xt gAt tp im
+;
+and acquire property after lack of it,
+
+m njwt rxt.n=k
+;
+in the city that you have known,
+
+m sSAw xprt n=k xntw
+;
+with awareness of what happened to you before,
+
+m kfA jb=k Hr aHaw=k
+;
+do not place your trust in your wealth.
+
+xpr n=k m rdjw nTr
+;
+It came to you by the gifts of the god,
+
+nn tw HA ky mjtw=k
+;
+so you will not be behind another like you,
+
+xprw n=f mjtt jry
+;
+but the same could happen to him
+
+Xms sA=k n Hry-tp=k
+;
+Bend your back to your superior,
+
+jmj-r=k n pr nswt
+;
+your overseer of the king's domain,
+
+wnn pr=k mn Hr xt=f
+;
+and your house will be fixed on its goods,
+
+DbAw=k m st jry
+;
+your rewards in their place.
+
+qsn pw jtnw m Hry-tp
+;
+The man who struggles with the superior is an irritant.
+
+anx.tw tr n sft=f
+;
+You live as long as the superior is pleased with you.
+
+n xA.n qaH n kftf
+;
+The shoulder is not injured by being exposed.
+
+m TAwj pr sAHw
+;
+Do not seize the house of neighbours,
+
+m dAjr xt tkn jm=k
+;
+do not suppress anything close to you,
+
+nn st Ax n st
+;
+it gives no results in anything.
+
+jm=f sjw r=k r sDmt=k
+;
+Let him not speak ill of you before you have heard.
+
+jm pw n jb bqbq
+;
+A troublemaker is a man with no mind.
+
+jr rx st jw=f r Sny
+;
+Whoever is known as a quarreller,
+
+qsn pw n jtnw m st tknt
+;
+there is trouble for the struggler in places near to him.
+
+jm=k nk Hmt Xrd
+;
+Do not have sex with a child woman
+
+rx.n=k xsfwt r mw HAtj=f
+;
+when you knew the approach to the water of its chest.
+
+nn qb n ntt m Xt=f
+;
+There is no cooling what is in his body.
+
+jm=f swxA r jrt xsfwt
+;
+Do not go mad on making the approach.
+
+qb=f m-xt HD=f jb=f
+;
+He is cool after damaging his heart.
+
+jr Dar=k qd n xnms
+;
+If you seek out the character of a friend,
+
+m Snn r=k tkn im=f
+;
+do not make your own enquiries, go direct to him,
+
+jr sp Hna=f waw
+;
+make the case with him alone
+
+r tmt=k mn xrt=f
+;
+to avoid suffering in his matter.
+
+DAjs Hna=f m-xt aHaw
+;
+Debate with him after a period of time,
+
+wSm jb=f m sp n mdt
+;
+and try his heart in the matter of the case.
+
+jr pr mAt.n=f m-a=f
+;
+If what he has seen come out through him,
+
+jr=f sp Spt=k Hr=f
+;
+and he does the matter that angers you about him,
+
+xnms sw r-pw
+;
+or that makes him a friend,
+
+m jTw Hr
+;
+do not seize the sight,
+
+sAq m wbA n=f mdt
+;
+be collected, do not deluge him with words,
+
+m wSb m sp n shA
+;
+do not reply with a slight,
+
+m wj tw r=f m hbw sw
+;
+do not react against him by destroying him.
+
+n pA sp=f tm jw
+;
+His moment cannot fail to come.
+
+n wh.n.tw m SA sw
+;
+No one can escape from what is fated for him.
+
+HD Hr=k tr n wnn=k
+;
+Let your face be bright as long as you live.
+
+jr pr m mXr n aq.n
+;
+Whoever leaves the store cannot enter.
+
+jn t n psSt Hnty Hr=f
+;
+It is the bread of sharing that causes envy.
+
+srxy pw Sw m Xt=f
+;
+A man with an empty stomach is a man to complain;
+
+xpr jtnw m sAhhw
+;
+the opponent is born out of impoverishment.
+
+m jr sw r tkn jm=k
+;
+Do not make him into someone to approach you.
+
+sxA pw s jAmt
+;
+Favour is the memory of a man
+
+n rnpwt jmt-xt wAs
+;
+in the years after ruin.
+
+rx Swt=k wnn xt=k
+;
+Know your plumage and your property will last.
+
+m Xs bjAt=k r xnmsw=k
+;
+Do not be mean in your character towards your friends.
+
+wdb=f pw mH=f wr sw r Spssw=f
+;
+They are his river field when it floods, more important than his riches.
+
+sw xt ky n ky
+;
+They are the property of one for another.
+
+Ax bjAt nt sA s n=f
+;
+The quality of a son of a someone is good for him;
+
+jw qd nfr r sxAw
+;
+good character will be remembered.
+
+xsf Hr tp sbA Hr qd
+;
+Punish from the head, teach by character.
+
+jw nDrt xw r mnt bjA
+;
+The force against a criminal will be a model example.
+
+jr sp n js Hr jyt
+;
+Any instance except for results
+
+rdj xpr anay pw m jtnw
+;
+is what makes a moaner turn into an active opponent.
+
+jr jr=k Hmt m Spnt
+;
+If you marry a good-time girl
+
+wnft jb rxt.n njwt=s
+;
+A joyful woman known to her town,
+
+jw=s m hpwj
+;
+If she is wayward,
+
+an n=s nw
+;
+and revels in the moment,
+
+m nS=s jmj r=k wnm=s
+;
+do not reject her, but instead let her enjoy;
+
+jw wnft jb sjp=s aqAA
+;
+joyfulness is what marks calm water.
+
+jr sDm=k nn Dd.n=j n=k
+;
+If you heed these things that I have told you
+
+wnn sxr=k nb r HAt
+;
+all your conduct will move forward.
+
+jr sp n mAat jry Spss=sn pw
+;
+Their holding true, that is their wealth.
+
+rwj sxA=sn m r n rmT
+;
+The memory of them moves in the mouth of people
+
+m-a nfr n Tsw=sn
+;
+from the excellence of their phrasing.
+
+jn.n.tw mdt nbt
+;
+When every saying has been brought,
+
+n sk.n m tA pn Dt
+;
+it does not perish in this land forever.
+
+jrt=s Ssrt r nfr
+;
+Doing it is a matter for goodness,
+
+mdw srw r=s
+;
+the words of the officials follow it.
+
+sbA s pw r Dd n m-xt
+;
+This is the teaching of a man to speak to posterity,
+
+sDm=f st xpr m Hmww sDmw
+;
+hearing it he becomes an attentive craftsman.
+
+nfr Dd n m-xt ntf sDm=f st
+;
+It is good to speak to posterity, for it will hear it.
+
+jr xpr sp nfr m-a wnn m Hry-tp
+;
+If there good cases arise from the one who is the superior,
+
+wnn=f mnx n nHH
+;
+he will be eternally effective,
+
+jw sAA=f nb r Dt
+;
+all his wisdom will last forever.
+
+jn rx sm bA=f
+;
+The wise man nourishes his soul
+
+m smnt nfr=f jm=f tp tA
+;
+by establishing his goodness with it on earth.
+
+sA.tw rx Hr rxt.n=f
+;
+The wise man is famed for what he has learned,
+
+jn sr Hr sp=f nfr
+;
+it is the official who is after good conduct.
+
+m-a n jb=f nst=f
+;
+from the action of his heart and his tongue,
+
+aqA sp.ty=fy jw=f Hr Dd
+;
+his lips are reliable when he is speaking,
+
+jr.ty=fy Hr mAA
+;
+and his eyes in seeing,
+
+anxwj=f twt Hr sDm Axt n sA=f
+;
+his ears intent in hearing what is useful for his son.
+
+jr mAat Sw m grg
+;
+Who does what is right, is free from falsehood.
+
+Ax sDm n sA sDmw
+;
+Hearing is good for a son who hears,
+
+aq sDm m sDmw
+;
+hearing enters into the hearer.
+
+xpr sDmw m sDmj
+;
+The hearer becomes one who is heard.
+
+nfr sDm nfr mdt
+;
+Hearing is good, as speech is good.
+
+sDmw nb Axt
+;
+The hearer is the master of what is useful.
+
+Ax sDm n sDmw
+;
+Hearing is good for the hearer,
+
+nfr sDm r ntt nbt
+;
+hearing is better than any other thing;
+
+pr mrwt nfrt
+;
+love of good comes into being.
+
+nfrwj Ssp sA Dd jt=f
+;
+How beautiful it is when a son receives what his father says.
+
+xpr n=f jAwt Xr=s
+;
+Old age is achieved for him by it.
+
+mrrw nTr pw sDm
+;
+The hearer is one whom the god loves.
+
+n sDm.n msddw nTr
+;
+The one whom god hates does not hear.
+
+jn jb sxpr nb=f
+;
+The heart is the creator of its master.
+
+m sDm m tm sDm
+;
+Do not hear from the one who does not hear.
+
+anx wDA snb n s jb=f
+;
+A man's heart is his life, prosperity and health.
+
+jn sDmw sDm Dd
+;
+It is the hearer who hears the speaker,
+
+mrr sDm pw jr r Ddt
+;
+the one who acts according to what is said is the one who loves hearing.
+
+nfrwj sDm sA n jt=f
+;
+How good when a a son listens to his father.
+
+rSwj Dddy n=f nn
+;
+How joyful is the one to whom this is said.
+
+sA an=f m nb sDm
+;
+A son who is handsome is a hearing lord.
+
+sDmw Ddw n=f st mnx=f m XtjmAxy xr jt=f
+;
+The hearer to whom it is said is effective in the body.
+
+jw sxA=f m r n anxw
+;
+Memory of him is in the mouth of the people,
+
+ntyw tp tA wnnt=sn
+;
+Those who are on earth, and those who will be.
+
+jr Ssp sA s Ddt jt=f
+;
+If the son of a someone receives what his father says,
+
+nn nm n sxr=f nb
+;
+There can be no wavering for any of his plans.
+
+sbA=k m sA=k sDmw
+;
+Instruct your son to be a good hearer,
+
+jqr.ty=fy Hr jb n srw
+;
+who will be excellent in the hearts of the officials,
+
+sSm r=f r Dddt n=f
+;
+guiding his mouth according to what he has been told,
+
+mAw m sDmw
+;
+seen as a hearer.
+
+sA jqr=f nmtt=f tnw
+;
+The son who excels, his steps are distinguished,
+
+nnm bs n tm sDm
+;
+but there is no straight way in for the one who fails to hear.
+
+dwA rx r smnt=f
+;
+The morning of the wise man will be his security,
+
+jw wxA mDd=f
+;
+while the fool is pressed down.
+
+jr wxA jwty sDm=f
+;
+As for the fool unable to hear,
+
+nn jr n=f xt nbt
+;
+nothing can ever be done for him.
+
+mA=f rx m xm
+;
+He sees wisdom as ignorance,
+
+Axt m mnt
+;
+and what is good as what is painful.
+
+jr=f xbdt nbt
+;
+He commits every error,
+
+r Tsst jm=f ra nb
+;
+to be accused of it each day.
+
+anx=f m mwtt Xr=s
+;
+He lives on what one dies of,
+
+aqw=f pw xbn Dd
+;
+corrupt speech is his food.
+
+bjAt=f jm m rx n srw
+;
+His character in this is well-known to the officials,
+
+Hr mwt anx ra nb
+;
+saying 'living death' each day.
+
+swA(.tw) Hr spw=f
+;
+His faults are passed over
+
+m-a aSA n jyt Hr=f ra nb
+;
+from the sheer number of faults on him each day.
+
+sA sDmw m Sms Hr
+;
+A son who hears is a follower of Horus
+
+nfr n=f m-xt sDm=f
+;
+It is good for him after he hears.
+
+jAww=f pH=f jmAx
+;
+In his old age he achieves revered status.
+
+sDd=f m mjtt n Xrdw=f
+;
+He can tell the same to his children,
+
+m smAw sbAw jt=f
+;
+renewing the teaching of his father.
+
+s nb sbA mj jr=f
+;
+Every man teaches by his deeds.
+
+sDd=f xr msw
+;
+He tells on to the children,
+
+jx Dd.n=sn Xrdw=sn
+;
+and they can tell their children.
+
+jr bjA m rdj anDt=k
+;
+Show character, do not pass on your weaknesses.
+
+srwd mAat anx msw=k
+;
+Securing what is right, is the life of your children
+
+jr tpj jy Xr jsft
+;
+As for the principal who arrives with wrongdoing,
+
+jx Dd rmT mAAt=sn
+;
+people say what they see
+
+mjtt js pfA pw
+;
+'that is exactly how that man is'
+
+Dd n sDm.ty=sn
+;
+to say to those who will hear
+
+mjtt js pfA pw gr
+;
+'that is exactly how that man is' too.
+
+mAA bw nb sn sgrH aSAt
+;
+There everyone sees, and the multitude is pacified.
+
+nn km.n Spss m xmt=sn
+;
+There is no profit in riches without them.
+
+m jT mdt m jn=s
+;
+Do not remove a word, do not add it.
+
+m rdj kt m st kt
+;
+Do not put one in place of another.
+
+aHA tw m wn jnj jm=k
+;
+Fight against opening up the bonds on you.
+
+sAw tw r Dd rx xt
+;
+Guard against a man of experience saying
+
+sDm r=k mr=k smnt=k
+;
+'listen up, if you wish to be secure
+
+m r n sDmjw
+;
+in the mouth of those who hear;
+
+mdwj=k aq.n=k m sp n Hmww
+speak up when you have penetrated the case of the craftsman'.
+
+mdw=k r sp n qn
+;
+You speak at the case of closure,
+
+wnn sxr=k nb r st=f
+;
+and all your plans will fall into place.
+
+hrp jb=k Hn r=k
+;
+Flood your heart, restrain your mouth
+
+jx sxr=k m-m srw
+;
+then your plans will be among the officials.
+
+mtr Hr qd xr nb=k
+;
+Be straight in character before your lord.
+
+jr r Dd.n=f sA pfA pw
+;
+Do as he has said, that is the son,
+
+r Dd n sDm.ty=sn st
+;
+so those who hear it say
+
+Hs grt msy.n=f sw
+;
+'indeed favour gave birth to him'.
+
+Dd=k xt tnw
+;
+Say things of distinction,
+
+jx Dd srw sDm.ty=sn
+;
+so the officials who hear may say
+
+nfr wy prw n r=f
+;
+'how perfect is the issue of his mouth'.
+
+jr r Ddt nb=k r=k
+;
+Do as your master has said for you.
+
+nfr wy sbA.n jt=f
+;
+How good is one instructed by his father
+
+pr.n=f jm=f xnt Haw=f
+;
+when he emerged from him out of his body,
+
+Dd.n=f n=f jw=f m Xt r-Aw
+;
+and he told him, while he was in the body, entirely,
+
+wr jrt.n=f r Dddt n=f
+;
+May what he has done be greater than what he was told.
+
+mk sA nfr n dd nTr
+;
+See, a good son, by the gift of the god,
+
+rdj HAw Hr Dddt n=f xr nb=f
+;
+surpassing what he was told before his lord.
+
+jr=f mAat
+;
+He does what is right.
+
+jr.n jb=f r nmtt=f
+;
+His heart has acted according to his set steps.
+
+mj pH=k wj Haw=k wDA
+;
+As you reach me, your body intact,
+
+nswt Htp m xprt nbt
+;
+the king content with everything,
+
+jT=k rnpwt m anx
+;
+take years of life.
+
+nn Sr jrt.n=j tp tA
+;
+What I have done on earth is not little.
+
+jT.n=j rnpt Snt mD m anx
+;
+I took 110 years of life
+
+n dd n=j nswt
+;
+by the grant of the king to me,
+
+Hswt xnt tpyw-a
+;
+favour ahead of the ancestors,
+
+m-a jrt mAat n nswt r st jmAx
+;
+from doing what is right for the king until the stage of revered status.
+
+jw=f pw HAt=f r pHwj.fy mj gmyt m sS
+;
+This is its completion, from beginning to end as found in writing.

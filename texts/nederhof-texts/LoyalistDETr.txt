@@ -1,0 +1,550 @@
+creator = Lauren Fay Rosenberg
+name = FayRose
+labelname = Lfr
+created = 2019-12-13
+modified = 2019-12-13
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Translation according to Digital Egypt of the Loyalist Teaching.
+https://www.ucl.ac.uk/museums-static/digitalegypt/literature/loyalist/text.html
+
+###
+
+###
+
+HAt-a m sbAyt jrt.n jrj-pat HAtj-a
+;
+Beginning of the teaching made by the leader of nobility, foremost of action made by a man for his son
+
+jt nTr mry nTr
+;
+father of the god, beloved of the god,
+
+Hrj-sStA n pr nswt anx wDA snb
+;
+master of secrets of the house of the king, may he live, flourish and be well,
+
+Hrj-tp n tA r-Dr=f
+;
+overlord of the land to its limit
+
+sm xrp Sndyt
+;
+sem-priest, controller of the kilted
+
+m sbAyt xr msw=f
+;
+as a teaching before his children.
+
+Dd=j wrt dj=j sDM=tn
+;
+Let me say what is great , may you listen,
+
+dj=j rx=tn sxr n nHH
+;
+as I cause you to know the manner of eternity,
+
+sSr anx n mAa
+;
+a matter of live in truth,
+
+sbt r jmAx
+;
+of proceeding to revered status.
+
+dwA nswt m Xnw Xt=tn
+;
+Praise the king within your bodies
+
+snsn Hm=f m jb=tn
+;
+embrace His Agency in your hearts.
+
+jmj nrw=f m Xrt-hrw
+;
+Spread awe of him every day
+
+qmA n=f hnw r tr nb
+;
+Create rejoicing for him at every moment.
+
+sjA pw jmj HAtjw
+;
+He is the Insight into what is in hearts,
+
+jw jr.tj=fy Dar=sn Xt nbt
+;
+his eyes probe every body.
+
+ra pw anx Xr sSm=f
+;
+He is the sun in whose leadership people live.
+
+jw ntj Xr Swt=f r wr Xrw=f
+;
+Whoever is under his light will be great in wealth.
+
+ra pw mAA stwt=f
+;
+He is the sun by whose rays people see.
+
+sHDw sw tAwj r jtn
+;
+He is the one who brightens the Two Lands, more than the sun-disk.
+
+wbd hh=f r nst n sDt
+;
+His heat scorches more than the flame of the torch,
+
+snw sw At=f r xt
+;
+He is more devouring in his moment than fire.
+
+swAD sw r Hap aA
+;
+He is more fertile than the great Flood,
+
+mH.n=f tAwj m xtw n anx
+;
+he has filled the Two Lands with the trees of life.
+
+Dbb fndw wAww r nSny
+;
+Noses are blocked when he falls to raging,
+
+Htpw=f tp.tw TAw=f
+;
+when he is peaceful, people breathe his air.
+
+dd=f DfAw n ntj m Sms=f
+;
+He grants provisions for anyone in his following,
+
+sDfA=f mDd mtn=f
+;
+He grants provisions for anyone in his following,
+
+jw Hsy=f r nb aAbt
+;
+The one he favours will be a lord of offerings,
+
+jw rqy=f r jwtj=f
+;
+the one he rejects will be a pauper.
+
+jw mrt nswt r jmAxy
+;
+The servant of the king will have revered status,
+
+Sntj=f
+;
+his opponants
+
+jn bAw=f aHA Hr=f
+;
+It is his power that fights for him
+
+jw Sad dd Sfyt=f
+;
+slaughter is what spreads respect for him.
+
+rs Hr
+;
+watching over
+
+grg Hr dwAw nfrw=f
+;
+founded upon the praise of his perfection.
+
+wbA=f qmA
+;
+He opens up the creation
+
+mr jb=f
+;
+that his heart desires
+
+anx pw n dd n=f jAw
+;
+It is the life (that comes) of giving him adoration.
+
+jw Sntj=f r Xry
+;
+His opponants will be beneath
+
+jw XAt
+;
+their corpses
+
+kA pw nswt Hw pw r=f
+;
+Sustenance is the king, Abundance is his word.
+
+sxpr=f pw m wnt=f
+;
+He is one who creates in his being.
+
+jwat pw n nTr nb
+;
+He is the heir of every god,
+
+nDtj qmA sw
+;
+the champion of the one who fashioned him.
+
+Hww=sn n=f Sntj=f
+;
+They strike down his opponents for him.
+
+jst Hm=f anx wDA snb m aH=f anx wDA snb
+;
+See His Agency may he live, flourish and be well, is in his palace of life, flourishing, health.
+
+jtm pw n Ts wsrwt
+;
+He is Atum at the tying of necks.
+
+jw sA=f r HA dd bAw=f
+;
+His protection is at the back of the giving of his powers.
+
+Xnmw pw n Hr nb
+;
+He is Khnum for everybody,
+
+wttw sxpr rxyt
+;
+the begetter who brings the populace into being.
+
+BAst pw xwt tAwj
+;
+He is Bast, she who protects the Two Lands,
+
+jw dwA sw r nhw=f
+;
+he is praised for his sheltering.
+
+sxmt pw r th m wDt.n=f
+;
+He is Sekhmet against the one who transgresses what he has ordered.
+
+jw sfA=f r Xr SmAw=f
+;
+The one whom he humbles will be bearer of travels.
+
+aHA Hr rn=f
+;
+Fight on his name
+
+twr Hr anx=f
+;
+cleanse in his life.
+
+Sw=tn m sp n bgsw
+;
+Avoid the instant of sloth.
+
+jw mrt n nswt r jmAxy
+;
+The servant of the king will have revered status,
+
+nn js n sbj Hr Hm=f
+;
+but there can be no tomb for one who rebels against His Agency
+
+jw XAt=f m qmA n mw
+;
+his corpse will be something cast into the water.
+
+m tnj Hr fqAw n dd=f
+;
+Do not hold back from the presents of his giving,
+
+mAt bjt sns HDt=f
+;
+revere the Bee, adore his White Crown,
+
+swAS wTs sxmtj
+;
+worship the one who raises the Double Crown
+
+jr=tn nn wDA Haw=tn
+;
+As you do this, your bodies will be well,
+
+gm=tn st n Dt
+;
+you can find it (to be so) for eternity.
+
+aq m tA m dd nswt
+;
+Enter the land by the gift of the king
+
+Htp Hr st n Dt
+;
+content in the place of eternity,
+
+Xnmt tpHt jmj nHH
+;
+united with the cavern of the one within everlasting time,
+
+jwnn msw=tn Xr mrt=tn
+;
+with the shrine of your children bearing your love,
+
+jwat=tn mn Hr nst=tn
+;
+and your heirs established in your positions.
+
+sn qd=j m wn mdwt=j
+;
+Copy my form, do not neglect my words.
+
+smnx tp-rd jr.n=j
+;
+Put into effect the rule I have drawn up.
+
+jx Dd=tn n Xrdw=tn
+;
+Speak then to your children
+
+jw r sbA Dr rk ra
+;
+for the word has taught since the time of Ra.
+
+jnk sAH n sDm n=f
+;
+I am a noble to be heard,
+
+aq.n nb=f m sArt=f
+;
+whose lord has entered his reflections.
+
+m snn qd=j m stn Hr bjAt=j
+;
+Do not pass by my form, do not stray from my talent.
+
+Sw=tn m sp bAgw
+;
+Avoid the instant of sloth;
+
+jw sA sDm r jwtj Dwt=f
+;
+a son who hears will be without any evils.
+
+n mar.n sxr nb jm=f
+;
+Does not every plan succeed by it?
+
+Hsy=tn nn m-xt rnpt
+;
+You will be praising this after years.
+
+rwd jry m sAH-tA
+;
+Faithfulness to them assures success.
+
+ky sp n sTAt jb=tn
+;
+Another theme to guide your hearts,
+
+m Ax.tw jm=s xr Hmw=tn
+;
+as something to good effect before your workers:
+
+Hn m rmT sAq wnDwt=tn
+;
+be commanding with people, collect your staff together,
+
+TAr=tn Hr Hm n jryw
+;
+and fasten on the Agency of those who do.
+
+jn rmT sxpr ntj
+;
+It is people who bring what there is into being.
+
+anx.tw jmj m awj=sn
+;
+We live as men who have by their labour.
+
+gAy.tw r=f sxm m SwAw
+;
+If there is a lack of it, poverty takes power.
+
+jAt pw jrt DfAw
+;
+It is positions that produce offerings
+
+Sw pr=f tf sntt=f
+;
+The one whose house is empty, his foundation wavers
+
+jw xrw=sn smn jnbw
+;
+Their voices strengthen the walls.
+
+nb aSAt pw sDr r Ssp
+;
+The man who sleeps till dawn is the lord of a multitude;
+
+nn wn qd n watj
+;
+there can be no sleep for the lone man.
+
+n hAb.n.tw mAj m wpt
+;
+A lion is not sent on a mission,
+
+nn jdr DdH sw r jnbt
+;
+there is no cow that can be tied to the wall
+
+jw xrw=f mj jb HA Sdyt
+;
+its voice would be like someone thirsty behind a well,
+
+r=f r wnmw
+;
+more than fattened birds.
+
+Abb.tw Hap gmm.tw st
+;
+The flood is desired, and they find it
+
+nn AHt skAt xpr sy Ds=s
+;
+but there is no field for ploughing that creates itself.
+
+jn DdH Hw wSbw
+;
+It is the tethered bull that strikes the dueller.
+
+jr apr jm st spd Hr
+;
+Anyone who is experienced in it, is keen-sighted.
+
+m sAt aHwtj Hr bAkw
+;
+Do not overwhelm the field-labourer with work.
+
+aby=f gm=f n=k sw nrj
+;
+A man who complains, does he return to you next year?
+
+jr anx=f awj=fy
+;
+If he is alive, there are his arms,
+
+wS=k sw kA=f r SmAw
+;
+but if you flay him, his thoughts turn to homelessness.
+
+nHb bAkw r DAwt Sma
+;
+Fix the produce-levy according to the grain harvest
+
+nn sp n aHa n jsftj
+;
+There can be no opportunity for riches for an evil man;
+
+n gm.n mswt=f wDAt=f
+;
+His children do not find his residue.
+
+jr sfn pHwj anx=f
+;
+The hard man causes the end of his life;
+
+nn wn msw=f tkn jb
+;
+his children will not be devotees.
+
+jw mrt n sn Hr=f
+;
+Affection will be for the one who passes him;
+
+nn jwa n tff HAtj
+;
+there can be no heir for the mean-spirited.
+
+wr Sfyt nt nb xrt
+;
+A lord of followers is great in respect
+
+aSA xrw jsft Hr jb
+;
+The loud-mouthed is an evil on the heart.
+
+jn Dw xba jAt=f
+;
+It is the evil man who destroys his home ground,
+
+grg njwt n mrytj
+;
+and the loved man for whom a city is founded.
+
+mnw pw n s wAH-jb
+;
+Patience is the monument of a man
+
+ann sw sxm sHnn
+;
+The man with power in a task turns about.
+
+sfn qmA.n=f jdt
+;
+Does the cow reproduce for the hard man?
+
+mnjw Dwt and jdr=f
+;
+A herdsman of evil brings misery to his cattle.
+
+aHA Hr rmt m Ss nb
+;
+Fight for people in every way
+
+awt pw Axt n nb=sn
+;
+They are the flock that is good for their lord.
+
+ntsn pw gmm anx.tw jm=s
+;
+It is they who find what one lives on,
+
+Ax st r-sy n smAyt tA
+;
+so they are good too for burial.
+
+sTs tp=tn Hr Hmw-kA=tn
+;
+Watch over your ka-priests;
+
+bAgsw sA mnw n wab
+;
+if the son is lazy, there is still the wab-priest.
+
+jAm pw Ddw n=f jwa
+;
+The one called an heir is the one who does favour.
+
+bs sAH njs Hr rn=f
+;
+Initiate the noble, and recite on his name.
+
+Hr-ntt Ax n jrr r jrw n=f
+;
+for doing is more useful to the doer than to the one for whom it is done;
+
+jn smw mkk Hrj tA
+;
+it is the nourished dead who protect the one who is on earth.

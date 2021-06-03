@@ -1,0 +1,225 @@
+%pa 105
+
+%li 8
+%bi Peas. B1,93
+
+%pa 106
+
+%li 15
+%bi Peas. B1,52
+%% not Peas. B1,21 (which is old numbering)
+
+%li 19
+%bi Peas. B1,35
+
+%pa 110
+
+%li 39
+%bi Peas. R1.1
+
+%pa 111
+
+%li 45
+%bi West. 6,4-6
+
+%pa 113
+
+%li 51
+%bi West. 9,22
+
+%pa 114
+
+%li 60
+%bi Peas. B1,77
+
+%li 61
+%bi Peas. R7.4
+
+%pa 116
+
+%li 70
+%bi Peas. B1,116-117
+
+%li 71
+%bi Peas. B1,51-52
+
+%pa 119
+
+%li 84
+%al n(j)-sw mH 30
+%tr It (<al>sw</al>) was thirty cubits 
+long (&lowast;<al>nj mH 30</al> that-of-thirty cubits).
+
+%pa 117
+
+%li 76
+%bi West. 9,7-8
+
+%pa 122
+
+%li 104
+%bi Peas. B2,65-66
+
+%pa 123
+
+%li 106
+%bi West. 6,26-7,1
+
+%pa 129
+
+%li 138
+%bi West. 9,6
+
+%pa 145
+
+%li 8
+%bi Peas. R1.2-3
+
+%li 10
+%bi Peas. B1,101
+
+%pa 146
+
+%li 13
+%bi West. 5,3-15
+
+%li 14
+%bi Peas. B1,332
+
+%li 16
+%bi Peas. B1,249
+
+%li 17
+%bi Peas. B1,208
+
+%pa 148
+
+%li 26
+%bi West. 6,5
+
+%pa 151
+
+%li 42
+%bi West. 8,22-23
+
+%pa 152
+
+%li 44
+%bi Peas. B1,85-87
+
+%pa 158
+
+%li 73
+%bi Peas. B1,287
+
+%li 74
+%bi West. 11,10-11
+
+%pa 160
+
+%li 80
+%bi Peas. R1.1
+%% I omitted space from ``R 1.1'', to conform to format throughout.
+
+%pa 161
+
+%li 87
+%bi Peas. B2,80
+
+%li 89
+%bi Peas. B1,204-205
+
+%pa 164
+
+%li 93
+%bi Peas. B1,135-137
+
+%pa 169
+
+%li 110
+%bi Peas. B2,113-114
+
+%pa 170
+
+%li 112
+%bi Peas. B1,291-292
+
+%li 113
+%bi West. 8,12-17
+
+%pa 185
+
+%li 9
+%bi Peas. B1,33-34
+
+%li 10
+%bi Peas. Bt 35
+
+%li 11
+%bi West. 6,1
+
+%pa 186
+
+%li 20
+%bi Peas. R8.1
+
+%li 21
+%bi West. 5,13
+
+%pa 190
+
+%li 35
+%bi Peas. B1,262-263
+
+%pa 191
+
+%li 36
+%bi West. 6,26-7,2
+
+%pa 192
+
+%li 42
+%bi West. 12,21
+
+%li 43
+%bi Peas. B1,298-299
+
+%pa 198
+
+%li 66
+%bi Peas. B1,166
+
+%pa 201
+
+%li 81
+%bi Peas. B1,109-110
+
+%pa 212
+
+%li 126
+%bi Peas. B1,162
+
+%pa 215
+
+%li 137
+%bi Peas. B1,211
+
+%li 138
+%bi West. 6,5
+
+%pa 217
+
+%li 148
+%bi Peas. B1,244-245
+%% not Peas. B1,245
+
+%pa 219
+
+%li 160
+%bi Peas. B1,347
+
+%pa 266
+
+%li 62
+%bi West. 9,6
+

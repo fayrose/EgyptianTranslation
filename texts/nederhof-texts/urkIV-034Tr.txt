@@ -1,0 +1,149 @@
+creator = Mark-Jan Nederhof
+name = Nederhof
+labelname = Ne
+created = 2018-07-09
+modified = 2018-07-10
+version = 
+scheme = 
+language = eng
+upload = 
+email = 
+password = 
+hieroglyphic = ignored
+transliteration = shown
+translation = shown
+lexical = ignored
+
+Transliteration and translation of three rock inscriptions at the
+first cataract, mentioning the return of Tuthmosis I from Nubia,
+following the transcription of Sethe (1927), number 34 (pp. 88-90).
+
+The transliteration throughout follows Hannig (1995).
+
+For published translations, see Breasted (1906), pp. 31-32, §§ 74-77;
+Sethe (1914), number 34 (pp. 45-46).
+
+###
+
+J.H. Breasted. <i>Ancient Records of Egypt -- Volume II</i>. The
+University of Chicago Press, 1906.
+
+R. Hannig. <i>Grosses Handwörterbuch Ägyptisch-Deutsch: die Sprache
+der Pharaonen (2800-950 v.Chr.)</i>. Verlag Philipp von Zabern, 1995.
+
+K. Sethe. <i>Urkunden der 18. Dynastie -- übersetzt, Volume I</i>.
+Hinrichs, Leipzig, 1914.
+
+K. Sethe. <i>Urkunden der 18. Dynastie, Volume I</i>. Hinrichs,
+Leipzig, 1927.
+
+###
+
+<A1> rnpt-sp 3 Abd 1 Smw sw 22
+;
+<A1> Year 3, first month of the Season of Harvest, day 22,
+
+xr Hm n
+;
+under the majesty of
+
+^Hr ^kA-nxt mrj-mAat
+;
+Horus: Mighty bull, beloved of Maat;
+
+<A2> nbtj ^xaj-m-nsrt aA-pHtj
+;
+<A2> Two Ladies: Shining as a flame, great of strength;
+
+^Hr-nbw ^nfr-rnpwt sanx-jbw
+;
+Gold Horus: Perfect of years, who enlivens the hearts;
+
+<A3> nsw-bjtj ^aA-xpr-kA-^ra
+;
+<A3> The king of Upper and Lower Egypt: Aakheperkare;
+
+sA-^ra ^DHwtj-msjw
+;
+Son of Re: Tuthmosis,
+
+^sTt nbt ^Abw mr[y]
+;
+beloved of Satis, mistress of Elephantine.
+
+<A4> jwt Hm=f m ^kS Hr sxr xftj[w=f]
+;
+<A4> His Majesty returned from Kush, having overthrown [his] enemies.
+
+<B1> ^Hr ^kA-nxt mrj-mAat
+;
+<B1> Horus: Mighty bull, beloved of Maat;
+
+<B2> nsw-bjtj ^aA-xpr-kA-^ra
+;
+<B2> The king of Upper and Lower Egypt: Aakheperkare;
+
+<B3> sA-^ra ^DHwtj-msjw
+;
+<B3> Son of Re: Tuthmosis,
+
+<B4> Dj anx Dt
+;
+<B4> given life forever.
+
+<B5> rnpt-sp 3 Abd 1 Smw sw 22
+;
+<B5> Year 3, first month of the Season of Harvest, day 22,
+
+nat Hm=f mr pn
+;
+His Majesty sailed on this canal,
+
+m <B6> nxt m wsr
+;
+with <B6> strength and with might
+
+m jwt=f Hr sxrt ^kS Xst
+;
+upon his return from overthrowing vile Kush.
+
+<B7> sA-nsw ^twrj
+;
+<B7> Prince Turi.
+
+<C1> rnpt-sp 3 Abd 1 Smw sw 22
+;
+<C1> Year 3, first month of the Season of Harvest, day 22,
+
+xr Hm n
+;
+under the majesty of
+
+<C2> nsw-bjtj ^aA-xpr-kA-^ra
+;
+<C2> The king of Upper and Lower Egypt: Aakheperkare,
+
+Dj anx
+;
+given life.
+
+wD Hm=f SAd <C3> mr pn
+;
+His Majesty commanded the digging <C3> of this canal,
+
+m-xt gmt=f sw [DbA.w] <C4> m jnrw
+;
+after his finding it [blocked up] <C4> with stones;
+
+n [sqd.n dpt Hr=f]
+;
+[a ship could not sail on it.]
+
+[xd]<C5>.n=f Hr=f jb=f [Aw.w smA.n=f xftjw=f]
+;
+He [travelled north] on it, his heart [being glad, having slain his
+enemies.]
+
+<C6> sA-nsw ^twrj
+;
+<C6> Prince [Turi].
