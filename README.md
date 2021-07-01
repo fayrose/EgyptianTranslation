@@ -13,5 +13,6 @@ Corpus size: 50,457 monolingual sentences + 8176 aligned sentences
 Current max BLEU score = ??? (in progress)  
 
 In-progress:  
-- [ ] Parse pyramid texts from PDF to add additional ~4k aligned sentences  
+- [x] Parse pyramid texts from PDF to add additional ~5k aligned sentences  
+- [ ] Preprocess newly added aligned sentences
 - [ ] Complete back-translation and semi-supervised machine translation pipeline  
