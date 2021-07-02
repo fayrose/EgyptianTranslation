@@ -6,7 +6,7 @@ Supervised and semi-supervised learning techniques will be used to optimize outp
 
 **Supervised case**:  
 Corpus size: 12938 aligned sentences  
-Current max BLEU score = 41.29
+Current max BLEU score = 42.22
 
 **Semi-supervised case**:  
 Corpus size: 50,457 monolingual sentences + 12938 aligned sentences  
