@@ -1,1 +1,6 @@
 *.pt filter=lfs diff=lfs merge=lfs -text
+texts/* linguist-vendored
+texts/grammar-texts/* linguist-vendored
+texts/monolingual-texts/* linguist-vendored
+texts/nederhof-texts/* linguist-vendored
+*.html linguist-detectable=false
