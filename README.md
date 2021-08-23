@@ -8,7 +8,7 @@ Current max BLEU score = 42.22
 
 **Semi-supervised case**:  
 Corpus size: 50,457 monolingual sentences + 12,938 aligned sentences  
-Current max BLEU score = 41.49
+Current max BLEU score = 41.78
 
 In-progress:  
 - [x] Parse pyramid texts from PDF to add additional ~5k aligned sentences  
