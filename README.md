@@ -8,10 +8,10 @@ Current max BLEU score = 42.22
 
 **Semi-supervised case**:  
 Corpus size: 50,457 monolingual sentences + 12,938 aligned sentences  
-Current max BLEU score = ??? (in progress)  
+Current max BLEU score = 41.78
 
 In-progress:  
 - [x] Parse pyramid texts from PDF to add additional ~5k aligned sentences  
 - [x] Preprocess newly added aligned sentences
 - [x] Update machine translation notebook with new BLEU score after corpus expanded
-- [ ] Complete back-translation and semi-supervised machine translation pipeline  
+- [x] Semi-supervised machine translation pipeline  
